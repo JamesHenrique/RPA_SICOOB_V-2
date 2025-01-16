@@ -19,7 +19,7 @@ nome_comprovante = "02. COMPROVANTES DE PAGAMENTO"
 
 CAMINHO_PASTA_PDFS = r"C:\Users\axlda\OneDrive\1. Area de Trabalho_Note Dell_Alexandre David\BANCOS_OP\RPA_SICOOB - v2\pdf"
 
-ONE_DRIVE_SALGADARIA =  rf"C:\Users\axlda\iFinance\iFinance - Dados\IFINANCE RIBEIRÃO PRETO\01. CLIENTES\002. SALGADARIA DA ILHA LTA ME\1. ARQUIVADOS\{ano_atual}\{mes_atual}"
+ONE_DRIVE_SALGADARIA =  rf"C:\Users\axlda\iFinance\iFinance - Dados\IFINANCE RIBEIRÃO PRETO\01. CLIENTES\002. SALGADARIA DA ILHA LTDA ME\1. ARQUIVADOS\{ano_atual}\{mes_atual}"
 
 ONE_DRIVE_IMPETUS =  rf'C:\Users\axlda\iFinance\iFinance - Dados\IFINANCE RIBEIRÃO PRETO\01. CLIENTES\004. IMPETUS ENERGY E BUSINESS LTDA\1. ARQUIVADOS\02. COMPROVANTES DE PAGAMENTO\{ano_atual}\{mes_atual}'
 
