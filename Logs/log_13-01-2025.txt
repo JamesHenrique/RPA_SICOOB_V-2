@@ -1,0 +1,5 @@
+[07:16:14] - 13-01-2025 - INFO - Login realizado com sucesso - 3258
+[07:16:14] - 13-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: titulos
+[07:58:03] - 13-01-2025 - INFO - Login realizado com sucesso - 3258
+[07:58:03] - 13-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: titulos
+[07:58:58] - 13-01-2025 - INFO - Tela fechada com sucesso 

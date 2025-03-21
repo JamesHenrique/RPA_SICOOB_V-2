@@ -1,0 +1,95 @@
+[19:09:47] - 11-02-2025 - INFO - Login realizado com sucesso - 4277
+[19:09:47] - 11-02-2025 - INFO - Cliente: RECAP_PNEUS_4277 | etapa: titulos
+[19:10:13] - 11-02-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_30aob84a_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_30aob84a', 'txt']
+[19:10:13] - 11-02-2025 - INFO - Total de CP salvo na planilha.
+[19:10:14] - 11-02-2025 - INFO - Comprovante 1º
+[19:10:33] - 11-02-2025 - INFO - Comprovante 2º
+[19:10:47] - 11-02-2025 - INFO - Dados do processo salvos na planilha: Cliente=RECAP_PNEUS_4277
+[19:10:47] - 11-02-2025 - INFO - Dados enviados para planilha. - Cliente: RECAP_PNEUS_4277, Etapa: convenio
+[19:10:47] - 11-02-2025 - INFO - Etapa atualizado com sucesso
+[19:10:47] - 11-02-2025 - INFO - Cliente: RECAP_PNEUS_4277 | etapa: convenio
+[19:11:20] - 11-02-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente RECAP_PNEUS_4277
+[19:11:20] - 11-02-2025 - INFO - Indo para pix
+[19:11:20] - 11-02-2025 - INFO - Etapa atualizado com sucesso
+[19:11:20] - 11-02-2025 - INFO - Etapa atualizado com sucesso
+[19:11:20] - 11-02-2025 - INFO - Cliente: RECAP_PNEUS_4277 | etapa: pix
+[19:12:32] - 11-02-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_j2r0ztnd_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_j2r0ztnd', 'txt']
+[19:12:33] - 11-02-2025 - INFO - Total de CP salvo na planilha.
+[19:12:35] - 11-02-2025 - INFO - Comprovante 1º
+[19:13:02] - 11-02-2025 - INFO - posição Y: 491
+[19:13:02] - 11-02-2025 - INFO - pagina atual 1
+[19:13:04] - 11-02-2025 - INFO - Comprovante 2º
+[19:13:32] - 11-02-2025 - INFO - posição Y: 516
+[19:13:32] - 11-02-2025 - INFO - pagina atual 1
+[19:13:32] - 11-02-2025 - INFO - Dados do processo salvos na planilha: Cliente=RECAP_PNEUS_4277
+[19:13:32] - 11-02-2025 - INFO - Dados enviados para planilha. - Cliente: RECAP_PNEUS_4277, Etapa: pdf
+[19:13:32] - 11-02-2025 - INFO - Etapa atualizado com sucesso
+[19:13:32] - 11-02-2025 - INFO - Processo finalizado para Cliente: RECAP_PNEUS_4277
+[19:13:41] - 11-02-2025 - INFO - Status atualizado com sucesso
+[19:14:04] - 11-02-2025 - INFO - Login realizado com sucesso - 3214
+[19:14:04] - 11-02-2025 - INFO - Cliente: RECAP_PNEUS_3214 | etapa: titulos
+[19:14:30] - 11-02-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_si4ha3vw_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_si4ha3vw', 'txt']
+[19:14:30] - 11-02-2025 - INFO - Total de CP salvo na planilha.
+[19:14:31] - 11-02-2025 - INFO - Comprovante 1º
+[19:14:45] - 11-02-2025 - INFO - Dados do processo salvos na planilha: Cliente=RECAP_PNEUS_3214
+[19:14:45] - 11-02-2025 - INFO - Dados enviados para planilha. - Cliente: RECAP_PNEUS_3214, Etapa: convenio
+[19:14:46] - 11-02-2025 - INFO - Etapa atualizado com sucesso
+[19:14:46] - 11-02-2025 - INFO - Cliente: RECAP_PNEUS_3214 | etapa: convenio
+[19:15:18] - 11-02-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente RECAP_PNEUS_3214
+[19:15:18] - 11-02-2025 - INFO - Indo para pix
+[19:15:19] - 11-02-2025 - INFO - Etapa atualizado com sucesso
+[19:15:19] - 11-02-2025 - INFO - Etapa atualizado com sucesso
+[19:15:19] - 11-02-2025 - INFO - Cliente: RECAP_PNEUS_3214 | etapa: pix
+[19:16:31] - 11-02-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess___d5x8o5_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess___d5x8o5', 'txt']
+[19:16:32] - 11-02-2025 - INFO - Total de CP salvo na planilha.
+[19:16:34] - 11-02-2025 - INFO - Comprovante 1º
+[19:17:01] - 11-02-2025 - INFO - posição Y: 491
+[19:17:01] - 11-02-2025 - INFO - pagina atual 1
+[19:17:03] - 11-02-2025 - INFO - Comprovante 2º
+[19:17:31] - 11-02-2025 - INFO - posição Y: 516
+[19:17:31] - 11-02-2025 - INFO - pagina atual 1
+[19:17:33] - 11-02-2025 - INFO - Comprovante 3º
+[19:18:00] - 11-02-2025 - INFO - posição Y: 541
+[19:18:00] - 11-02-2025 - INFO - pagina atual 1
+[19:18:02] - 11-02-2025 - INFO - Comprovante 4º
+[19:18:30] - 11-02-2025 - INFO - posição Y: 566
+[19:18:30] - 11-02-2025 - INFO - pagina atual 1
+[19:18:32] - 11-02-2025 - INFO - Comprovante 5º
+[19:18:59] - 11-02-2025 - INFO - posição Y: 591
+[19:18:59] - 11-02-2025 - INFO - pagina atual 1
+[19:19:01] - 11-02-2025 - INFO - Comprovante 6º
+[19:19:29] - 11-02-2025 - INFO - posição Y: 616
+[19:19:29] - 11-02-2025 - INFO - pagina atual 1
+[19:19:31] - 11-02-2025 - INFO - Comprovante 7º
+[19:19:58] - 11-02-2025 - INFO - posição Y: 641
+[19:19:58] - 11-02-2025 - INFO - pagina atual 1
+[19:19:59] - 11-02-2025 - INFO - Dados do processo salvos na planilha: Cliente=RECAP_PNEUS_3214
+[19:19:59] - 11-02-2025 - INFO - Dados enviados para planilha. - Cliente: RECAP_PNEUS_3214, Etapa: pdf
+[19:19:59] - 11-02-2025 - INFO - Etapa atualizado com sucesso
+[19:19:59] - 11-02-2025 - INFO - Processo finalizado para Cliente: RECAP_PNEUS_3214
+[19:20:07] - 11-02-2025 - INFO - Status atualizado com sucesso
+[19:20:07] - 11-02-2025 - INFO - Todos clientes processados - Etapa Renomear CP
+[19:20:07] - 11-02-2025 - INFO - Todos clientes marcados como concluidos
+[19:20:07] - 11-02-2025 - INFO - Nao existe informações na planilha para continuar
+[19:20:09] - 11-02-2025 - INFO - Etapa renomear TITULOS iniciada
+[19:20:09] - 11-02-2025 - INFO - TITULOS - Renomeado: titulos1.0_11.02.2025.pdf para 11.02.2025_CP_CINBOR INDUSTRIA DE _R$984,66.pdf
+[19:20:09] - 11-02-2025 - INFO - TITULOS - Renomeado: titulos2.0_11.02.2025.pdf para 11.02.2025_CP_MARVIN BORRACHAS LTD_R$7.500,00.pdf
+[19:20:09] - 11-02-2025 - INFO - TITULOS - Renomeado: titulos1.0_11.02.2025.pdf para 11.02.2025_CP_TABELIAO DE NOTAS E _R$224,42.pdf
+[19:20:09] - 11-02-2025 - INFO - Etapa renomear TITULOS finalizada
+[19:20:09] - 11-02-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[19:20:09] - 11-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 11.02.2025_CP.GASRAPIDO_R$ 414,17.pdf
+[19:20:09] - 11-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 11.02.2025_CP.SICOOB_R$ 1.267,36.pdf
+[19:20:09] - 11-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 11.02.2025_CP_CINBOR INDUSTRIA DE _R$984,66.pdf
+[19:20:09] - 11-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 11.02.2025_CP_MARVIN BORRACHAS LTD_R$7.500,00.pdf
+[19:20:09] - 11-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_11.02.2025.pdf
+[19:20:09] - 11-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_11.02.2025.pdf
+[19:20:09] - 11-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 11.02.2025_CP_TABELIAO DE NOTAS E _R$224,42.pdf
+[19:20:09] - 11-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_11.02.2025.pdf
+[19:20:09] - 11-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_11.02.2025.pdf
+[19:20:09] - 11-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_11.02.2025.pdf
+[19:20:09] - 11-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix4.0_11.02.2025.pdf
+[19:20:09] - 11-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix5.0_11.02.2025.pdf
+[19:20:09] - 11-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix6.0_11.02.2025.pdf
+[19:20:09] - 11-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix7.0_11.02.2025.pdf
+[19:20:09] - 11-02-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[19:20:09] - 11-02-2025 - INFO - Etapa renomear PIX finalizada

@@ -1,0 +1,36 @@
+[08:28:40] - 27-01-2025 - INFO - Login realizado com sucesso - 3258
+[08:28:40] - 27-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: titulos
+[08:29:16] - 27-01-2025 - INFO - erro ao apos o login - 
+[08:29:16] - 27-01-2025 - INFO - Etapa atualizado com sucesso
+[08:29:17] - 27-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: convenio
+[09:04:26] - 27-01-2025 - INFO - Login realizado com sucesso - 3258
+[09:04:26] - 27-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: convenio
+[09:05:00] - 27-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_juk0fi0y_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_juk0fi0y', 'txt']
+[09:05:01] - 27-01-2025 - INFO - Total de CP salvo na planilha.
+[09:05:03] - 27-01-2025 - INFO - Comprovante 1º
+[09:05:28] - 27-01-2025 - INFO - posição Y: 582
+[09:05:28] - 27-01-2025 - INFO - pagina atual 1
+[09:05:30] - 27-01-2025 - INFO - Comprovante 2º
+[09:05:48] - 27-01-2025 - INFO - posição Y: 607
+[09:05:48] - 27-01-2025 - INFO - pagina atual 1
+[09:05:51] - 27-01-2025 - INFO - Comprovante 3º
+[09:06:22] - 27-01-2025 - INFO - posição Y: 632
+[09:06:22] - 27-01-2025 - INFO - pagina atual 1
+[09:06:24] - 27-01-2025 - INFO - Comprovante 4º
+[09:06:55] - 27-01-2025 - INFO - posição Y: 657
+[09:06:55] - 27-01-2025 - INFO - pagina atual 1
+[09:06:55] - 27-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[09:06:55] - 27-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: pix
+[09:06:55] - 27-01-2025 - INFO - Etapa atualizado com sucesso
+[09:06:55] - 27-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: pix
+[09:07:09] - 27-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_klbrs6io_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_klbrs6io', 'txt']
+[09:07:10] - 27-01-2025 - INFO - Total de CP salvo na planilha.
+[09:07:10] - 27-01-2025 - INFO - Etapa atualizado com sucesso
+[09:07:10] - 27-01-2025 - INFO - Etapa atualizado com sucesso
+[09:07:10] - 27-01-2025 - INFO - Processo finalizado para Cliente: SALGADARIA_3258
+[09:07:19] - 27-01-2025 - INFO - Status atualizado com sucesso
+[09:07:42] - 27-01-2025 - INFO - Login realizado com sucesso - 4001
+[09:07:42] - 27-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: titulos
+[09:08:19] - 27-01-2025 - INFO - erro ao apos o login - 
+[09:08:19] - 27-01-2025 - INFO - Etapa atualizado com sucesso
+[09:08:19] - 27-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: convenio

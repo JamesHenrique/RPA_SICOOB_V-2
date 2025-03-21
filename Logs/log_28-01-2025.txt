@@ -1,0 +1,770 @@
+[07:59:16] - 28-01-2025 - INFO - Login realizado com sucesso - 3258
+[07:59:16] - 28-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: titulos
+[07:59:52] - 28-01-2025 - INFO - erro ao apos o login - 
+[07:59:52] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[07:59:52] - 28-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: convenio
+[08:17:52] - 28-01-2025 - INFO - Login realizado com sucesso - 3258
+[08:17:52] - 28-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: convenio
+[19:14:01] - 28-01-2025 - INFO - Login realizado com sucesso - 3258
+[19:14:01] - 28-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: convenio
+[19:14:24] - 28-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente SALGADARIA_3258
+[19:14:24] - 28-01-2025 - INFO - Indo para pix
+[19:14:25] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[19:14:25] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[19:14:25] - 28-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: pix
+[19:14:39] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_edelim4i_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_edelim4i', 'txt']
+[19:14:40] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:14:42] - 28-01-2025 - INFO - Comprovante 1º
+[19:15:12] - 28-01-2025 - INFO - Comprovante 2º
+[19:15:41] - 28-01-2025 - INFO - Comprovante 3º
+[19:16:11] - 28-01-2025 - INFO - Comprovante 4º
+[19:16:39] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[19:16:39] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: pdf
+[19:16:40] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[19:16:40] - 28-01-2025 - INFO - Processo finalizado para Cliente: SALGADARIA_3258
+[19:16:48] - 28-01-2025 - INFO - Status atualizado com sucesso
+[19:17:12] - 28-01-2025 - INFO - Login realizado com sucesso - 4001
+[19:17:12] - 28-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: titulos
+[19:17:32] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_787igvm9_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_787igvm9', 'txt']
+[19:17:33] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:17:34] - 28-01-2025 - INFO - Comprovante 1º
+[19:17:53] - 28-01-2025 - INFO - Comprovante 2º
+[19:18:08] - 28-01-2025 - INFO - Comprovante 3º
+[19:18:24] - 28-01-2025 - INFO - Comprovante 4º
+[19:18:39] - 28-01-2025 - INFO - Comprovante 5º
+[19:18:54] - 28-01-2025 - INFO - Comprovante 6º
+[19:19:10] - 28-01-2025 - INFO - Comprovante 7º
+[19:19:25] - 28-01-2025 - INFO - Comprovante 8º
+[19:19:40] - 28-01-2025 - INFO - Comprovante 9º
+[19:19:55] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[19:19:55] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: convenio
+[19:19:55] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[19:19:55] - 28-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: convenio
+[19:20:17] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_ly3k_r0r_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_ly3k_r0r', 'txt']
+[19:20:18] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:20:20] - 28-01-2025 - INFO - Comprovante 1º
+[19:20:38] - 28-01-2025 - INFO - posição Y: 582
+[19:20:38] - 28-01-2025 - INFO - pagina atual 1
+[19:20:41] - 28-01-2025 - INFO - Comprovante 2º
+[19:20:59] - 28-01-2025 - INFO - posição Y: 607
+[19:20:59] - 28-01-2025 - INFO - pagina atual 1
+[19:21:02] - 28-01-2025 - INFO - Comprovante 3º
+[19:21:20] - 28-01-2025 - INFO - posição Y: 632
+[19:21:20] - 28-01-2025 - INFO - pagina atual 1
+[19:21:23] - 28-01-2025 - INFO - Comprovante 4º
+[19:21:41] - 28-01-2025 - INFO - posição Y: 657
+[19:21:41] - 28-01-2025 - INFO - pagina atual 1
+[19:21:44] - 28-01-2025 - INFO - Comprovante 5º
+[19:22:02] - 28-01-2025 - INFO - posição Y: 682
+[19:22:02] - 28-01-2025 - INFO - pagina atual 1
+[19:22:04] - 28-01-2025 - INFO - Comprovante 6º
+[19:22:22] - 28-01-2025 - INFO - posição Y: 707
+[19:22:22] - 28-01-2025 - INFO - pagina atual 1
+[19:22:23] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[19:22:23] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: pix
+[19:22:23] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[19:22:23] - 28-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: pix
+[19:22:37] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_o7heawlu_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_o7heawlu', 'txt']
+[19:22:38] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:22:40] - 28-01-2025 - INFO - Comprovante 1º
+[19:23:10] - 28-01-2025 - INFO - Comprovante 2º
+[19:23:37] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[19:23:37] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: pdf
+[19:23:37] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[19:23:38] - 28-01-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_4001
+[19:23:46] - 28-01-2025 - INFO - Status atualizado com sucesso
+[19:24:10] - 28-01-2025 - INFO - Login realizado com sucesso - 5004
+[19:24:10] - 28-01-2025 - INFO - Cliente: IMPETUS_LTDA_5004 | etapa: titulos
+[19:29:22] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:39:48] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:40:02] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:40:54] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:42:08] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:42:26] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:42:52] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:43:14] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:43:39] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:43:49] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:46:33] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:49:08] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:50:05] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:50:49] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:50:55] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:54:12] - 28-01-2025 - INFO - Login realizado com sucesso - 4001
+[19:54:12] - 28-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: convenio
+[19:54:34] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_8428189n_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_8428189n', 'txt']
+[19:54:35] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:54:37] - 28-01-2025 - INFO - Comprovante 1º
+[19:54:56] - 28-01-2025 - INFO - posição Y: 582
+[19:54:56] - 28-01-2025 - INFO - pagina atual 1
+[19:54:58] - 28-01-2025 - INFO - Comprovante 2º
+[19:55:17] - 28-01-2025 - INFO - posição Y: 607
+[19:55:17] - 28-01-2025 - INFO - pagina atual 1
+[19:55:19] - 28-01-2025 - INFO - Comprovante 3º
+[19:55:37] - 28-01-2025 - INFO - posição Y: 632
+[19:55:37] - 28-01-2025 - INFO - pagina atual 1
+[19:55:40] - 28-01-2025 - INFO - Comprovante 4º
+[19:55:58] - 28-01-2025 - INFO - posição Y: 657
+[19:55:58] - 28-01-2025 - INFO - pagina atual 1
+[19:56:01] - 28-01-2025 - INFO - Comprovante 5º
+[19:56:19] - 28-01-2025 - INFO - posição Y: 682
+[19:56:19] - 28-01-2025 - INFO - pagina atual 1
+[19:56:21] - 28-01-2025 - INFO - Comprovante 6º
+[19:56:40] - 28-01-2025 - INFO - posição Y: 707
+[19:56:40] - 28-01-2025 - INFO - pagina atual 1
+[19:56:40] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[19:56:40] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: pix
+[19:56:40] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[19:56:40] - 28-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: pix
+[19:56:54] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_x6ml75dm_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_x6ml75dm', 'txt']
+[19:56:55] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[19:56:57] - 28-01-2025 - INFO - Comprovante 1º
+[19:57:27] - 28-01-2025 - INFO - Comprovante 2º
+[19:57:56] - 28-01-2025 - INFO - Comprovante 3º
+[19:58:26] - 28-01-2025 - INFO - Comprovante 4º
+[19:58:56] - 28-01-2025 - INFO - Comprovante 5º
+[19:59:26] - 28-01-2025 - INFO - Comprovante 6º
+[19:59:56] - 28-01-2025 - INFO - Comprovante 7º
+[20:00:25] - 28-01-2025 - INFO - Comprovante 8º
+[20:00:55] - 28-01-2025 - INFO - Comprovante 9º
+[20:01:25] - 28-01-2025 - INFO - Comprovante 10º
+[20:01:55] - 28-01-2025 - INFO - Comprovante 1º
+[20:02:25] - 28-01-2025 - INFO - Comprovante 2º
+[20:02:55] - 28-01-2025 - INFO - Comprovante 3º
+[20:03:24] - 28-01-2025 - INFO - Comprovante 4º
+[20:03:54] - 28-01-2025 - INFO - Comprovante 5º
+[20:04:24] - 28-01-2025 - INFO - Comprovante 6º
+[20:04:54] - 28-01-2025 - INFO - Comprovante 7º
+[20:05:24] - 28-01-2025 - INFO - Comprovante 8º
+[20:05:54] - 28-01-2025 - INFO - Comprovante 9º
+[20:12:33] - 28-01-2025 - INFO - Login realizado com sucesso - 4001
+[20:12:33] - 28-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: convenio
+[20:15:06] - 28-01-2025 - INFO - Login realizado com sucesso - 3258
+[20:15:06] - 28-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: titulos
+[20:15:26] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_a12juur2_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_a12juur2', 'txt']
+[20:15:27] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[20:15:47] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[20:15:47] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: convenio
+[20:15:47] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[20:15:47] - 28-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: convenio
+[20:50:50] - 28-01-2025 - INFO - Nenhuma linha encontrada para o cliente "IMPETUS_LTDA_4364" e a data de hoje.
+[20:50:53] - 28-01-2025 - INFO - Nenhuma linha encontrada para o cliente "IMPETUS_LTDA_4364" e a data de hoje.
+[20:52:50] - 28-01-2025 - INFO - Nenhuma linha encontrada para o cliente "IMPETUS_LTDA_4364" e a data de hoje.
+[20:58:19] - 28-01-2025 - INFO - Nenhuma linha encontrada para o cliente "IMPETUS_LTDA_4364" e a data de hoje.
+[21:05:29] - 28-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente SALGADARIA_3258
+[21:05:29] - 28-01-2025 - INFO - Indo para pix
+[21:05:29] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[21:14:30] - 28-01-2025 - INFO - Nenhuma linha encontrada para o cliente "teste" e a data de hoje.
+[21:23:49] - 28-01-2025 - INFO - Login realizado com sucesso - 3258
+[21:23:49] - 28-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: titulos
+[21:24:07] - 28-01-2025 - INFO - Erro iniciar cliente | 'bool' object is not callable
+[21:24:33] - 28-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[21:24:33] - 28-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[21:24:33] - 28-01-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[21:24:33] - 28-01-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[21:24:33] - 28-01-2025 - INFO - Etapa renomear PIX finalizada
+[21:30:43] - 28-01-2025 - INFO - Login realizado com sucesso - 3258
+[21:30:43] - 28-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: titulos
+[21:31:01] - 28-01-2025 - INFO - Erro iniciar cliente | 'bool' object is not callable
+[21:32:38] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[21:37:27] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[21:39:23] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[21:39:47] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_i85s3suv_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_i85s3suv', 'txt']
+[21:39:47] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[21:39:48] - 28-01-2025 - INFO - Comprovante 1º
+[21:40:15] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[21:40:20] - 28-01-2025 - INFO - Tela fechada com sucesso 
+[21:40:28] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[21:41:50] - 28-01-2025 - INFO - Login realizado com sucesso - 3258
+[21:41:50] - 28-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: titulos
+[21:42:12] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_5pbexgsx_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_5pbexgsx', 'txt']
+[21:42:12] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[21:42:13] - 28-01-2025 - INFO - Comprovante 1º
+[21:42:31] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[21:42:31] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: convenio
+[21:42:31] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[21:42:31] - 28-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: convenio
+[21:42:55] - 28-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente SALGADARIA_3258
+[21:42:55] - 28-01-2025 - INFO - Indo para pix
+[21:42:55] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[21:42:55] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[21:42:56] - 28-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: pix
+[21:43:11] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_ii7vqui0_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_ii7vqui0', 'txt']
+[21:43:11] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[21:43:13] - 28-01-2025 - INFO - Comprovante 1º
+[21:43:43] - 28-01-2025 - INFO - Comprovante 2º
+[21:44:13] - 28-01-2025 - INFO - Comprovante 3º
+[21:44:43] - 28-01-2025 - INFO - Comprovante 4º
+[21:45:12] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[21:45:12] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: pdf
+[21:45:12] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[21:45:12] - 28-01-2025 - INFO - Processo finalizado para Cliente: SALGADARIA_3258
+[21:45:21] - 28-01-2025 - INFO - Status atualizado com sucesso
+[21:45:45] - 28-01-2025 - INFO - Login realizado com sucesso - 3258
+[21:45:45] - 28-01-2025 - INFO - Nenhum registro encontrado para o cliente e data especificados.
+[21:45:45] - 28-01-2025 - INFO - Erro iniciar cliente | 'str' object has no attribute 'iloc'
+[21:45:45] - 28-01-2025 - INFO - Todos clientes marcados como concluidos
+[21:45:45] - 28-01-2025 - INFO - Nao existe informações na planilha para continuar
+[21:48:14] - 28-01-2025 - INFO - Login realizado com sucesso - 3258
+[21:48:14] - 28-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: titulos
+[21:48:35] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_go707agn_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_go707agn', 'txt']
+[21:48:35] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[21:48:36] - 28-01-2025 - INFO - Comprovante 1º
+[21:48:54] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[21:48:54] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: convenio
+[21:48:54] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[21:48:54] - 28-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: convenio
+[21:49:18] - 28-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente SALGADARIA_3258
+[21:49:18] - 28-01-2025 - INFO - Indo para pix
+[21:49:18] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[21:49:18] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[21:49:18] - 28-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: pix
+[21:49:34] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_m4d7_zr3_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_m4d7_zr3', 'txt']
+[21:49:34] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[21:49:36] - 28-01-2025 - INFO - Comprovante 1º
+[21:50:09] - 28-01-2025 - INFO - Comprovante 2º
+[21:50:39] - 28-01-2025 - INFO - Comprovante 3º
+[21:51:09] - 28-01-2025 - INFO - Comprovante 4º
+[21:51:37] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[21:51:37] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: pdf
+[21:51:37] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[21:51:37] - 28-01-2025 - INFO - Processo finalizado para Cliente: SALGADARIA_3258
+[21:51:46] - 28-01-2025 - INFO - Status atualizado com sucesso
+[21:51:46] - 28-01-2025 - INFO - Todos clientes processados - Etapa Renomear CP
+[21:51:46] - 28-01-2025 - INFO - Todos clientes marcados como concluidos
+[21:51:46] - 28-01-2025 - INFO - Nao existe informações na planilha para continuar
+[21:57:05] - 28-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[21:57:05] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos1.0_28.01.2025.pdf para 28.01.2025_CP_CREDPAGO SERVICOS SA_R$173,25.pdf
+[21:57:05] - 28-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[21:57:05] - 28-01-2025 - INFO - Etapa renomear PIX finalizada
+[21:57:05] - 28-01-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[21:57:05] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_Claro_R$144.90.pdf
+[21:57:05] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CREDPAGO SERVICOS SA_R$173,25.pdf
+[21:57:05] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_POSTO GALO LTDA_R$351.02.pdf
+[21:57:05] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_SDB COMERCIO DE ALIM_R$431.28.pdf
+[21:57:05] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_TRANSPORTADORA PRESI_R$343.50.pdf
+[21:57:05] - 28-01-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[21:57:58] - 28-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[21:57:58] - 28-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 28.01.2025_CP_CREDPAGO SERVICOS SA_R$173,25.pdf. Pulando...
+[21:57:58] - 28-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[21:57:58] - 28-01-2025 - INFO - Etapa renomear PIX finalizada
+[21:57:58] - 28-01-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[21:57:58] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_Claro_R$144.90.pdf
+[21:57:58] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CREDPAGO SERVICOS SA_R$173,25.pdf
+[21:57:58] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_POSTO GALO LTDA_R$351.02.pdf
+[21:57:58] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_SDB COMERCIO DE ALIM_R$431.28.pdf
+[21:57:58] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_TRANSPORTADORA PRESI_R$343.50.pdf
+[21:57:58] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_28.01.2025.pdf
+[21:57:58] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_28.01.2025.pdf
+[21:57:58] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_28.01.2025.pdf
+[21:57:58] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix4.0_28.01.2025.pdf
+[21:57:58] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos1.0_28.01.2025.pdf
+[21:57:58] - 28-01-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[22:02:01] - 28-01-2025 - INFO - Login realizado com sucesso - 4001
+[22:02:01] - 28-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: titulos
+[22:04:22] - 28-01-2025 - INFO - Tela fechada com sucesso 
+[22:07:09] - 28-01-2025 - INFO - Login realizado com sucesso - 4001
+[22:07:09] - 28-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: titulos
+[22:07:30] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_t9mb78y8_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_t9mb78y8', 'txt']
+[22:07:31] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[22:07:32] - 28-01-2025 - INFO - Comprovante 1º
+[22:07:50] - 28-01-2025 - INFO - Comprovante 2º
+[22:08:06] - 28-01-2025 - INFO - Comprovante 3º
+[22:08:21] - 28-01-2025 - INFO - Comprovante 4º
+[22:08:36] - 28-01-2025 - INFO - Comprovante 5º
+[22:08:52] - 28-01-2025 - INFO - Comprovante 6º
+[22:09:07] - 28-01-2025 - INFO - Comprovante 7º
+[22:09:22] - 28-01-2025 - INFO - Comprovante 8º
+[22:09:37] - 28-01-2025 - INFO - Comprovante 9º
+[22:09:52] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[22:09:52] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: convenio
+[22:09:52] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[22:09:52] - 28-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: convenio
+[22:10:15] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_ssfyy5ap_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_ssfyy5ap', 'txt']
+[22:10:15] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[22:10:18] - 28-01-2025 - INFO - Comprovante 1º
+[22:10:36] - 28-01-2025 - INFO - posição Y: 582
+[22:10:36] - 28-01-2025 - INFO - pagina atual 1
+[22:10:39] - 28-01-2025 - INFO - Comprovante 2º
+[22:10:57] - 28-01-2025 - INFO - posição Y: 607
+[22:10:57] - 28-01-2025 - INFO - pagina atual 1
+[22:10:59] - 28-01-2025 - INFO - Comprovante 3º
+[22:11:18] - 28-01-2025 - INFO - posição Y: 632
+[22:11:18] - 28-01-2025 - INFO - pagina atual 1
+[22:11:20] - 28-01-2025 - INFO - Comprovante 4º
+[22:11:38] - 28-01-2025 - INFO - posição Y: 657
+[22:11:38] - 28-01-2025 - INFO - pagina atual 1
+[22:11:41] - 28-01-2025 - INFO - Comprovante 5º
+[22:11:59] - 28-01-2025 - INFO - posição Y: 682
+[22:11:59] - 28-01-2025 - INFO - pagina atual 1
+[22:12:02] - 28-01-2025 - INFO - Comprovante 6º
+[22:12:20] - 28-01-2025 - INFO - posição Y: 707
+[22:12:20] - 28-01-2025 - INFO - pagina atual 1
+[22:12:20] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[22:12:20] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: pix
+[22:12:20] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[22:12:20] - 28-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: pix
+[22:12:36] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_6drp5l_6_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_6drp5l_6', 'txt']
+[22:12:36] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[22:12:38] - 28-01-2025 - INFO - Comprovante 1º
+[22:13:08] - 28-01-2025 - INFO - Comprovante 2º
+[22:13:38] - 28-01-2025 - INFO - Comprovante 3º
+[22:14:07] - 28-01-2025 - INFO - Comprovante 4º
+[22:14:37] - 28-01-2025 - INFO - Comprovante 5º
+[22:15:06] - 28-01-2025 - INFO - Comprovante 6º
+[22:15:36] - 28-01-2025 - INFO - Comprovante 7º
+[22:16:06] - 28-01-2025 - INFO - Comprovante 8º
+[22:16:35] - 28-01-2025 - INFO - Comprovante 9º
+[22:17:05] - 28-01-2025 - INFO - Comprovante 10º
+[22:17:35] - 28-01-2025 - INFO - Comprovante 1º
+[22:18:05] - 28-01-2025 - INFO - Comprovante 2º
+[22:18:34] - 28-01-2025 - INFO - Comprovante 3º
+[22:19:04] - 28-01-2025 - INFO - Comprovante 4º
+[22:19:33] - 28-01-2025 - INFO - Comprovante 5º
+[22:20:03] - 28-01-2025 - INFO - Comprovante 6º
+[22:20:33] - 28-01-2025 - INFO - Comprovante 7º
+[22:21:03] - 28-01-2025 - INFO - Comprovante 8º
+[22:21:32] - 28-01-2025 - INFO - Comprovante 9º
+[22:22:02] - 28-01-2025 - INFO - Comprovante 10º
+[22:22:32] - 28-01-2025 - INFO - Comprovante 1º
+[22:24:21] - 28-01-2025 - INFO - Comprovante 2º
+[22:24:51] - 28-01-2025 - INFO - Comprovante 3º
+[22:25:21] - 28-01-2025 - INFO - Comprovante 4º
+[22:25:51] - 28-01-2025 - INFO - Comprovante 5º
+[22:26:21] - 28-01-2025 - INFO - Comprovante 6º
+[22:26:51] - 28-01-2025 - INFO - Comprovante 7º
+[22:27:19] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[22:27:19] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: pdf
+[22:27:19] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[22:27:19] - 28-01-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_4001
+[22:27:28] - 28-01-2025 - INFO - Status atualizado com sucesso
+[22:27:52] - 28-01-2025 - INFO - Login realizado com sucesso - 4001
+[22:27:52] - 28-01-2025 - INFO - Nenhum registro encontrado para o cliente e data especificados.
+[22:27:52] - 28-01-2025 - INFO - Erro iniciar cliente | 'str' object has no attribute 'iloc'
+[22:27:52] - 28-01-2025 - INFO - Todos clientes marcados como concluidos
+[22:27:52] - 28-01-2025 - INFO - Nao existe informações na planilha para continuar
+[22:29:14] - 28-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[22:29:14] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos1.0_28.01.2025.pdf para 28.01.2025_CP_GEGE MATERIAL DE CON_R$2.332,00.pdf
+[22:29:14] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos2.0_28.01.2025.pdf para 28.01.2025_CP_BELL MAQUINAS E EQUI_R$3.318,00.pdf
+[22:29:14] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos3.0_28.01.2025.pdf para 28.01.2025_CP_BELL MAQUINAS E EQUI_R$5.590,50.pdf
+[22:29:14] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos4.0_28.01.2025.pdf para 28.01.2025_CP_BELL MAQUINAS E EQUI_R$2.565,50.pdf
+[22:29:14] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos5.0_28.01.2025.pdf para 28.01.2025_CP_BRASILIA HABITAT SER_R$1.583,70.pdf
+[22:29:14] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos6.0_28.01.2025.pdf para 28.01.2025_CP_AGIL FLORESTAL LTDA_R$523,35.pdf
+[22:29:14] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos7.0_28.01.2025.pdf para 28.01.2025_CP_OLIVEIRA amp; MARTIN_R$320,00.pdf
+[22:29:14] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos8.0_28.01.2025.pdf para 28.01.2025_CP_DF COMERCIO A M ELET_R$749,49.pdf
+[22:29:14] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos9.0_28.01.2025.pdf para 28.01.2025_CP_KRISTA_R$6.202,88.pdf
+[22:29:14] - 28-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[22:29:15] - 28-01-2025 - INFO - Etapa renomear PIX finalizada
+[22:29:15] - 28-01-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_41.914.050 SILVIO CL_R$150.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_54.176.811 BARBARA D_R$168.49.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_54.176.811 BARBARA D_R$63.69.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_AGIL FLORESTAL LTDA_R$523,35.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_AUGUSTO URIAS DA CRU_R$383.21.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BELL MAQUINAS E EQUI_R$2.565,50.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BELL MAQUINAS E EQUI_R$3.318,00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BELL MAQUINAS E EQUI_R$5.590,50.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BRASILIA HABITAT SER_R$1.583,70.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CELIO ARAUJO DE OLIV_R$1280.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CONSELHO REGIONAL DE_R$271.47.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_DF COMERCIO A M ELET_R$749,49.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_EDUARDO LUIZ PERES B_R$187.90.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_EDUARDO LUIZ PERES B_R$415.04.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_EURIDIANO ALBERTO MO_R$1704.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_FABRICIO ZAGO DE ASS_R$7696.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GEGE MATERIAL DE CON_R$2.332,00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JK COMERCIO E SERVIC_R$121.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JOAO ABRANTE SARMENT_R$4250.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JPMN COMERCIO DE MAT_R$4508.31.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JPMN COMERCIO DE MAT_R$4533.81.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_KRISTA TECNOLOGIA LT_R$6388.98.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_KRISTA_R$6.202,88.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LOJA ELETRICA LTDA_R$6943.44.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LOT LOT TRANSPORTE L_R$2496.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LUCINEI APARECIDO DE_R$1000.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_MARLI DA SILVA 42231_R$95.38.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_MIGUEL FERNANDES DA_R$55000.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_NOVA CASA SILVA LTDA_R$5450.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_OLIVEIRA amp; MARTIN_R$320,00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_PAULO CESAR DE RESEN_R$5500.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_ROBISON ANDRADE DA S_R$150.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_VALEMIX CONCRETOS E_R$3250.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_VIA SOBRADINHO MATER_R$1725.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_Welber Moreira De Az_R$290.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_WM MATERIAIS DE CONS_R$3812.00.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo renomeado para: 28.01.2025_CP_GDF_R$_3368.80.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo renomeado para: 28.01.2025_CP_GDF_R$_5482.06.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo renomeado para: 28.01.2025_CP_GDF_R$_4303.73.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo renomeado para: 28.01.2025_CP_GDF_R$_4845.41.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo renomeado para: 28.01.2025_CP_CEMIG_DISTRIB_-_MG_R$_379.95.pdf
+[22:29:15] - 28-01-2025 - INFO - IMPOSTO - Arquivo renomeado para: 28.01.2025_CP_COPASA_MG_R$_50.10.pdf
+[22:29:15] - 28-01-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[22:30:41] - 28-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[22:30:41] - 28-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[22:30:41] - 28-01-2025 - INFO - Etapa renomear PIX finalizada
+[22:30:41] - 28-01-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_41.914.050 SILVIO CL_R$150.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_54.176.811 BARBARA D_R$168.49.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_54.176.811 BARBARA D_R$63.69.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_AGIL FLORESTAL LTDA_R$523,35.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_AUGUSTO URIAS DA CRU_R$383.21.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BELL MAQUINAS E EQUI_R$2.565,50.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BELL MAQUINAS E EQUI_R$3.318,00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BELL MAQUINAS E EQUI_R$5.590,50.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BRASILIA HABITAT SER_R$1.583,70.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CELIO ARAUJO DE OLIV_R$1280.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CEMIG_DISTRIB_-_MG_R$_379.95.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CONSELHO REGIONAL DE_R$271.47.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_COPASA_MG_R$_50.10.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_DF COMERCIO A M ELET_R$749,49.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_EDUARDO LUIZ PERES B_R$187.90.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_EDUARDO LUIZ PERES B_R$415.04.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_EURIDIANO ALBERTO MO_R$1704.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_FABRICIO ZAGO DE ASS_R$7696.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GDF_R$_3368.80.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GDF_R$_4303.73.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GDF_R$_4845.41.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GDF_R$_5482.06.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GEGE MATERIAL DE CON_R$2.332,00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JK COMERCIO E SERVIC_R$121.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JOAO ABRANTE SARMENT_R$4250.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JPMN COMERCIO DE MAT_R$4508.31.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JPMN COMERCIO DE MAT_R$4533.81.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_KRISTA TECNOLOGIA LT_R$6388.98.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_KRISTA_R$6.202,88.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LOJA ELETRICA LTDA_R$6943.44.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LOT LOT TRANSPORTE L_R$2496.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LUCINEI APARECIDO DE_R$1000.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_MARLI DA SILVA 42231_R$95.38.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_MIGUEL FERNANDES DA_R$55000.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_NOVA CASA SILVA LTDA_R$5450.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_OLIVEIRA amp; MARTIN_R$320,00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_PAULO CESAR DE RESEN_R$5500.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_ROBISON ANDRADE DA S_R$150.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_VALEMIX CONCRETOS E_R$3250.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_VIA SOBRADINHO MATER_R$1725.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_Welber Moreira De Az_R$290.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_WM MATERIAIS DE CONS_R$3812.00.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo já existe e não será renomeado: 28.01.2025_CP_GDF_R$_3368.80.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo já existe e não será renomeado: 28.01.2025_CP_GDF_R$_5482.06.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo já existe e não será renomeado: 28.01.2025_CP_GDF_R$_4303.73.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo já existe e não será renomeado: 28.01.2025_CP_GDF_R$_4845.41.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo já existe e não será renomeado: 28.01.2025_CP_CEMIG_DISTRIB_-_MG_R$_379.95.pdf
+[22:30:41] - 28-01-2025 - INFO - IMPOSTO - Arquivo já existe e não será renomeado: 28.01.2025_CP_COPASA_MG_R$_50.10.pdf
+[22:30:41] - 28-01-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[22:33:01] - 28-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[22:33:01] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos1.0_28.01.2025.pdf para 28.01.2025_CP_GEGE MATERIAL DE CON_R$2.332,00.pdf
+[22:33:01] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos2.0_28.01.2025.pdf para 28.01.2025_CP_BELL MAQUINAS E EQUI_R$3.318,00.pdf
+[22:33:01] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos3.0_28.01.2025.pdf para 28.01.2025_CP_BELL MAQUINAS E EQUI_R$5.590,50.pdf
+[22:33:01] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos4.0_28.01.2025.pdf para 28.01.2025_CP_BELL MAQUINAS E EQUI_R$2.565,50.pdf
+[22:33:01] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos5.0_28.01.2025.pdf para 28.01.2025_CP_BRASILIA HABITAT SER_R$1.583,70.pdf
+[22:33:01] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos6.0_28.01.2025.pdf para 28.01.2025_CP_AGIL FLORESTAL LTDA_R$523,35.pdf
+[22:33:01] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos7.0_28.01.2025.pdf para 28.01.2025_CP_OLIVEIRA amp; MARTIN_R$320,00.pdf
+[22:33:01] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos8.0_28.01.2025.pdf para 28.01.2025_CP_DF COMERCIO A M ELET_R$749,49.pdf
+[22:33:01] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos9.0_28.01.2025.pdf para 28.01.2025_CP_KRISTA_R$6.202,88.pdf
+[22:33:01] - 28-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[22:33:02] - 28-01-2025 - INFO - Etapa renomear PIX finalizada
+[22:33:02] - 28-01-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_41.914.050 SILVIO CL_R$150.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_54.176.811 BARBARA D_R$168.49.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_54.176.811 BARBARA D_R$63.69.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_AGIL FLORESTAL LTDA_R$523,35.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_AUGUSTO URIAS DA CRU_R$383.21.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BELL MAQUINAS E EQUI_R$2.565,50.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BELL MAQUINAS E EQUI_R$3.318,00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BELL MAQUINAS E EQUI_R$5.590,50.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BRASILIA HABITAT SER_R$1.583,70.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CELIO ARAUJO DE OLIV_R$1280.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CONSELHO REGIONAL DE_R$271.47.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_DF COMERCIO A M ELET_R$749,49.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_EDUARDO LUIZ PERES B_R$187.90.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_EDUARDO LUIZ PERES B_R$415.04.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_EURIDIANO ALBERTO MO_R$1704.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_FABRICIO ZAGO DE ASS_R$7696.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GEGE MATERIAL DE CON_R$2.332,00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JK COMERCIO E SERVIC_R$121.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JOAO ABRANTE SARMENT_R$4250.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JPMN COMERCIO DE MAT_R$4508.31.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JPMN COMERCIO DE MAT_R$4533.81.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_KRISTA TECNOLOGIA LT_R$6388.98.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_KRISTA_R$6.202,88.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LOJA ELETRICA LTDA_R$6943.44.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LOT LOT TRANSPORTE L_R$2496.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LUCINEI APARECIDO DE_R$1000.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_MARLI DA SILVA 42231_R$95.38.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_MIGUEL FERNANDES DA_R$55000.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_NOVA CASA SILVA LTDA_R$5450.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_OLIVEIRA amp; MARTIN_R$320,00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_PAULO CESAR DE RESEN_R$5500.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_ROBISON ANDRADE DA S_R$150.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_VALEMIX CONCRETOS E_R$3250.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_VIA SOBRADINHO MATER_R$1725.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_Welber Moreira De Az_R$290.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_WM MATERIAIS DE CONS_R$3812.00.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo renomeado para: 28.01.2025_CP_GDF_R$_3368.80.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo renomeado para: 28.01.2025_CP_GDF_R$_5482.06.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo renomeado para: 28.01.2025_CP_GDF_R$_4303.73.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo renomeado para: 28.01.2025_CP_GDF_R$_4845.41.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo renomeado para: 28.01.2025_CP_CEMIG_DISTRIB_-_MG_R$_379.95.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo renomeado para: 28.01.2025_CP_COPASA_MG_R$_50.10.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP.LOFT SOLUÇÕES F_R$ 173,25.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP.POSTP GALO_R$ 351,02.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP.SDB COMERCIO_R$ 431,28.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP.TRANPORTADORA PRESIDENTE_R$ 343,50.pdf
+[22:33:02] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.22025_CLARO_R$ 144,90.pdf
+[22:33:02] - 28-01-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[23:31:57] - 28-01-2025 - INFO - Login realizado com sucesso - 4277
+[23:31:57] - 28-01-2025 - INFO - Cliente: RECAP_PNEUS_4277 | etapa: titulos
+[23:32:18] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_c3tti4b__input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_c3tti4b_', 'txt']
+[23:32:18] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[23:32:19] - 28-01-2025 - INFO - Comprovante 1º
+[23:32:37] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=RECAP_PNEUS_4277
+[23:32:37] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: RECAP_PNEUS_4277, Etapa: convenio
+[23:32:37] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[23:32:37] - 28-01-2025 - INFO - Cliente: RECAP_PNEUS_4277 | etapa: convenio
+[23:33:00] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_rc7dmk9h_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_rc7dmk9h', 'txt']
+[23:33:00] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[23:33:03] - 28-01-2025 - INFO - Comprovante 1º
+[23:33:21] - 28-01-2025 - INFO - posição Y: 582
+[23:33:21] - 28-01-2025 - INFO - pagina atual 1
+[23:33:21] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=RECAP_PNEUS_4277
+[23:33:21] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: RECAP_PNEUS_4277, Etapa: pix
+[23:33:22] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[23:33:22] - 28-01-2025 - INFO - Cliente: RECAP_PNEUS_4277 | etapa: pix
+[23:33:37] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_d7u43brs_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_d7u43brs', 'txt']
+[23:33:37] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[23:33:39] - 28-01-2025 - INFO - Comprovante 1º
+[23:34:09] - 28-01-2025 - INFO - Comprovante 2º
+[23:34:39] - 28-01-2025 - INFO - Comprovante 3º
+[23:35:07] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=RECAP_PNEUS_4277
+[23:35:07] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: RECAP_PNEUS_4277, Etapa: pdf
+[23:35:07] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[23:35:07] - 28-01-2025 - INFO - Processo finalizado para Cliente: RECAP_PNEUS_4277
+[23:35:16] - 28-01-2025 - INFO - Status atualizado com sucesso
+[23:35:40] - 28-01-2025 - INFO - Login realizado com sucesso - 3214
+[23:35:40] - 28-01-2025 - INFO - Cliente: RECAP_PNEUS_3214 | etapa: titulos
+[23:36:00] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_acer7ci7_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_acer7ci7', 'txt']
+[23:36:01] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[23:36:02] - 28-01-2025 - INFO - Comprovante 1º
+[23:36:17] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=RECAP_PNEUS_3214
+[23:36:17] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: RECAP_PNEUS_3214, Etapa: convenio
+[23:36:17] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[23:36:17] - 28-01-2025 - INFO - Cliente: RECAP_PNEUS_3214 | etapa: convenio
+[23:36:41] - 28-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente RECAP_PNEUS_3214
+[23:36:41] - 28-01-2025 - INFO - Indo para pix
+[23:36:41] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[23:36:41] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[23:36:41] - 28-01-2025 - INFO - Cliente: RECAP_PNEUS_3214 | etapa: pix
+[23:36:56] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_3buhg_y2_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_3buhg_y2', 'txt']
+[23:36:57] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[23:36:59] - 28-01-2025 - INFO - Comprovante 1º
+[23:37:29] - 28-01-2025 - INFO - Comprovante 2º
+[23:37:58] - 28-01-2025 - INFO - Comprovante 3º
+[23:38:28] - 28-01-2025 - INFO - Comprovante 4º
+[23:38:57] - 28-01-2025 - INFO - Comprovante 5º
+[23:39:25] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=RECAP_PNEUS_3214
+[23:39:25] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: RECAP_PNEUS_3214, Etapa: pdf
+[23:39:25] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[23:39:25] - 28-01-2025 - INFO - Processo finalizado para Cliente: RECAP_PNEUS_3214
+[23:39:34] - 28-01-2025 - INFO - Status atualizado com sucesso
+[23:39:34] - 28-01-2025 - INFO - Todos clientes processados - Etapa Renomear CP
+[23:39:34] - 28-01-2025 - INFO - Todos clientes marcados como concluidos
+[23:39:34] - 28-01-2025 - INFO - Nao existe informações na planilha para continuar
+[23:39:35] - 28-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[23:39:35] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos1.0_28.01.2025.pdf para 28.01.2025_CP_ITAU UNIBANCO S.A._R$1.155,55.pdf
+[23:39:35] - 28-01-2025 - INFO - TITULOS - Renomeado: titulos1.0_28.01.2025.pdf para 28.01.2025_CP_FUNDO DE INVEST EM D_R$1.050,00.pdf
+[23:39:35] - 28-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[23:39:35] - 28-01-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_41.914.050 SILVIO CL_R$150.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_54.176.811 BARBARA D_R$168.49.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_54.176.811 BARBARA D_R$63.69.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_AGIL FLORESTAL LTDA_R$523,35.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_AUGUSTO URIAS DA CRU_R$383.21.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BELL MAQUINAS E EQUI_R$2.565,50.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BELL MAQUINAS E EQUI_R$3.318,00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BELL MAQUINAS E EQUI_R$5.590,50.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BRASILIA HABITAT SER_R$1.583,70.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CELIO ARAUJO DE OLIV_R$1280.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CEMIG_DISTRIB_-_MG_R$_379.95.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CONSELHO REGIONAL DE_R$271.47.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_COPASA_MG_R$_50.10.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_DF COMERCIO A M ELET_R$749,49.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_EDUARDO LUIZ PERES B_R$187.90.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_EDUARDO LUIZ PERES B_R$415.04.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_EURIDIANO ALBERTO MO_R$1704.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_FABRICIO ZAGO DE ASS_R$7696.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GDF_R$_3368.80.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GDF_R$_4303.73.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GDF_R$_4845.41.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GDF_R$_5482.06.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GEGE MATERIAL DE CON_R$2.332,00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JK COMERCIO E SERVIC_R$121.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JOAO ABRANTE SARMENT_R$4250.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JPMN COMERCIO DE MAT_R$4508.31.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JPMN COMERCIO DE MAT_R$4533.81.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_KRISTA TECNOLOGIA LT_R$6388.98.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_KRISTA_R$6.202,88.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LOJA ELETRICA LTDA_R$6943.44.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LOT LOT TRANSPORTE L_R$2496.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LUCINEI APARECIDO DE_R$1000.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_MARLI DA SILVA 42231_R$95.38.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_MIGUEL FERNANDES DA_R$55000.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_NOVA CASA SILVA LTDA_R$5450.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_OLIVEIRA amp; MARTIN_R$320,00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_PAULO CESAR DE RESEN_R$5500.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_ROBISON ANDRADE DA S_R$150.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_VALEMIX CONCRETOS E_R$3250.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_VIA SOBRADINHO MATER_R$1725.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_Welber Moreira De Az_R$290.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_WM MATERIAIS DE CONS_R$3812.00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP.LOFT SOLUÇÕES F_R$ 173,25.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP.POSTP GALO_R$ 351,02.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP.SDB COMERCIO_R$ 431,28.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP.TRANPORTADORA PRESIDENTE_R$ 343,50.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.22025_CLARO_R$ 144,90.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_ITAU UNIBANCO S.A._R$1.155,55.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo renomeado para: 28.01.2025_CP_CTBC_TELECOM-MG_R$_31.35.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_28.01.2025.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_28.01.2025.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_28.01.2025.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_FUNDO DE INVEST EM D_R$1.050,00.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_28.01.2025.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_28.01.2025.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_28.01.2025.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix4.0_28.01.2025.pdf
+[23:39:35] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix5.0_28.01.2025.pdf
+[23:39:35] - 28-01-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[23:39:35] - 28-01-2025 - INFO - Etapa renomear PIX finalizada
+[23:42:13] - 28-01-2025 - INFO - Tela fechada com sucesso 
+[23:43:42] - 28-01-2025 - INFO - Login realizado com sucesso - 4277
+[23:43:42] - 28-01-2025 - INFO - Cliente: RECAP_PNEUS_4277 | etapa: titulos
+[23:44:03] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_bc4rt9s6_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_bc4rt9s6', 'txt']
+[23:44:03] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[23:44:04] - 28-01-2025 - INFO - Comprovante 1º
+[23:44:22] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=RECAP_PNEUS_4277
+[23:44:22] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: RECAP_PNEUS_4277, Etapa: convenio
+[23:44:22] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[23:44:22] - 28-01-2025 - INFO - Cliente: RECAP_PNEUS_4277 | etapa: convenio
+[23:44:45] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_gnogz1kc_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_gnogz1kc', 'txt']
+[23:44:45] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[23:44:47] - 28-01-2025 - INFO - Comprovante 1º
+[23:45:05] - 28-01-2025 - INFO - posição Y: 582
+[23:45:05] - 28-01-2025 - INFO - pagina atual 1
+[23:45:06] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=RECAP_PNEUS_4277
+[23:45:06] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: RECAP_PNEUS_4277, Etapa: pix
+[23:45:06] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[23:45:06] - 28-01-2025 - INFO - Cliente: RECAP_PNEUS_4277 | etapa: pix
+[23:45:21] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_tj4fp63z_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_tj4fp63z', 'txt']
+[23:45:22] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[23:45:24] - 28-01-2025 - INFO - Comprovante 1º
+[23:45:53] - 28-01-2025 - INFO - Comprovante 2º
+[23:46:23] - 28-01-2025 - INFO - Comprovante 3º
+[23:46:51] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=RECAP_PNEUS_4277
+[23:46:51] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: RECAP_PNEUS_4277, Etapa: pdf
+[23:46:51] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[23:46:51] - 28-01-2025 - INFO - Processo finalizado para Cliente: RECAP_PNEUS_4277
+[23:46:59] - 28-01-2025 - INFO - Status atualizado com sucesso
+[23:47:23] - 28-01-2025 - INFO - Login realizado com sucesso - 3214
+[23:47:23] - 28-01-2025 - INFO - Cliente: RECAP_PNEUS_3214 | etapa: titulos
+[23:47:44] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_9gb9hc90_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_9gb9hc90', 'txt']
+[23:47:44] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[23:47:45] - 28-01-2025 - INFO - Comprovante 1º
+[23:48:00] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=RECAP_PNEUS_3214
+[23:48:00] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: RECAP_PNEUS_3214, Etapa: convenio
+[23:48:00] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[23:48:00] - 28-01-2025 - INFO - Cliente: RECAP_PNEUS_3214 | etapa: convenio
+[23:48:24] - 28-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente RECAP_PNEUS_3214
+[23:48:24] - 28-01-2025 - INFO - Indo para pix
+[23:48:24] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[23:48:25] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[23:48:25] - 28-01-2025 - INFO - Cliente: RECAP_PNEUS_3214 | etapa: pix
+[23:48:40] - 28-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_12d3usua_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_12d3usua', 'txt']
+[23:48:40] - 28-01-2025 - INFO - Total de CP salvo na planilha.
+[23:48:42] - 28-01-2025 - INFO - Comprovante 1º
+[23:49:12] - 28-01-2025 - INFO - Comprovante 2º
+[23:49:42] - 28-01-2025 - INFO - Comprovante 3º
+[23:50:11] - 28-01-2025 - INFO - Comprovante 4º
+[23:50:41] - 28-01-2025 - INFO - Comprovante 5º
+[23:51:09] - 28-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=RECAP_PNEUS_3214
+[23:51:09] - 28-01-2025 - INFO - Dados enviados para planilha. - Cliente: RECAP_PNEUS_3214, Etapa: pdf
+[23:51:09] - 28-01-2025 - INFO - Etapa atualizado com sucesso
+[23:51:09] - 28-01-2025 - INFO - Processo finalizado para Cliente: RECAP_PNEUS_3214
+[23:51:18] - 28-01-2025 - INFO - Status atualizado com sucesso
+[23:51:18] - 28-01-2025 - INFO - Todos clientes processados - Etapa Renomear CP
+[23:51:18] - 28-01-2025 - INFO - Todos clientes marcados como concluidos
+[23:51:18] - 28-01-2025 - INFO - Nao existe informações na planilha para continuar
+[23:51:19] - 28-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[23:51:19] - 28-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 28.01.2025_CP_ITAU UNIBANCO S.A._R$1.155,55.pdf. Pulando...
+[23:51:19] - 28-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 28.01.2025_CP_FUNDO DE INVEST EM D_R$1.050,00.pdf. Pulando...
+[23:51:19] - 28-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[23:51:19] - 28-01-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_41.914.050 SILVIO CL_R$150.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_54.176.811 BARBARA D_R$168.49.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_54.176.811 BARBARA D_R$63.69.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_AGIL FLORESTAL LTDA_R$523,35.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_AUGUSTO URIAS DA CRU_R$383.21.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BELL MAQUINAS E EQUI_R$2.565,50.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BELL MAQUINAS E EQUI_R$3.318,00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BELL MAQUINAS E EQUI_R$5.590,50.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_BRASILIA HABITAT SER_R$1.583,70.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CELIO ARAUJO DE OLIV_R$1280.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CEMIG_DISTRIB_-_MG_R$_379.95.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CONSELHO REGIONAL DE_R$271.47.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_COPASA_MG_R$_50.10.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_DF COMERCIO A M ELET_R$749,49.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_EDUARDO LUIZ PERES B_R$187.90.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_EDUARDO LUIZ PERES B_R$415.04.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_EURIDIANO ALBERTO MO_R$1704.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_FABRICIO ZAGO DE ASS_R$7696.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GDF_R$_3368.80.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GDF_R$_4303.73.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GDF_R$_4845.41.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GDF_R$_5482.06.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_GEGE MATERIAL DE CON_R$2.332,00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JK COMERCIO E SERVIC_R$121.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JOAO ABRANTE SARMENT_R$4250.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JPMN COMERCIO DE MAT_R$4508.31.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JPMN COMERCIO DE MAT_R$4533.81.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_KRISTA TECNOLOGIA LT_R$6388.98.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_KRISTA_R$6.202,88.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LOJA ELETRICA LTDA_R$6943.44.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LOT LOT TRANSPORTE L_R$2496.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LUCINEI APARECIDO DE_R$1000.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_MARLI DA SILVA 42231_R$95.38.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_MIGUEL FERNANDES DA_R$55000.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_NOVA CASA SILVA LTDA_R$5450.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_OLIVEIRA amp; MARTIN_R$320,00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_PAULO CESAR DE RESEN_R$5500.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_ROBISON ANDRADE DA S_R$150.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_VALEMIX CONCRETOS E_R$3250.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_VIA SOBRADINHO MATER_R$1725.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_Welber Moreira De Az_R$290.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_WM MATERIAIS DE CONS_R$3812.00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP.LOFT SOLUÇÕES F_R$ 173,25.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP.POSTP GALO_R$ 351,02.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP.SDB COMERCIO_R$ 431,28.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP.TRANPORTADORA PRESIDENTE_R$ 343,50.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.22025_CLARO_R$ 144,90.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_CTBC_TELECOM-MG_R$_31.35.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_ITAU UNIBANCO S.A._R$1.155,55.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo já existe e não será renomeado: 28.01.2025_CP_CTBC_TELECOM-MG_R$_31.35.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_28.01.2025.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_28.01.2025.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_28.01.2025.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos1.0_28.01.2025.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_FUNDO DE INVEST EM D_R$1.050,00.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_JOSE TADEU MOTA_R$390.47.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_L A B FIACADORI PESQ_R$95.42.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LUIS APARECIDO GUIDE_R$128.75.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_LUIS APARECIDO GUIDE_R$5855.36.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 28.01.2025_CP_MARCIO LARANGEIRA LO_R$350.28.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_28.01.2025.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_28.01.2025.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_28.01.2025.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix4.0_28.01.2025.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix5.0_28.01.2025.pdf
+[23:51:19] - 28-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos1.0_28.01.2025.pdf
+[23:51:19] - 28-01-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[23:51:20] - 28-01-2025 - INFO - Etapa renomear PIX finalizada
+[23:56:53] - 28-01-2025 - INFO - Etapa renomear PIX finalizada
+[23:59:15] - 28-01-2025 - INFO - Etapa renomear PIX finalizada

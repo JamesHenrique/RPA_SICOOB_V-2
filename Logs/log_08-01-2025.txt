@@ -1,0 +1,921 @@
+
+[20:51:44] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[20:51:45] - 08-01-2025 - INFO - Comprovante 1º
+[20:52:04] - 08-01-2025 - INFO - Comprovante 2º
+[20:52:18] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[20:52:18] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: convenio
+[20:52:18] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[20:52:42] - 08-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente SALGADARIA_3258
+[20:52:42] - 08-01-2025 - INFO - Indo para pix
+[20:52:42] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[20:52:42] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[20:52:56] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_5nwwhn2m_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_5nwwhn2m', 'txt']
+[20:52:57] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[20:52:59] - 08-01-2025 - INFO - Comprovante 1º
+[20:53:29] - 08-01-2025 - INFO - Comprovante 2º
+[20:53:59] - 08-01-2025 - INFO - Comprovante 3º
+[20:54:29] - 08-01-2025 - INFO - Comprovante 4º
+[20:54:58] - 08-01-2025 - INFO - Comprovante 5º
+[20:55:28] - 08-01-2025 - INFO - Comprovante 6º
+[20:55:56] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[20:55:56] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: pdf
+[20:55:56] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[20:56:05] - 08-01-2025 - INFO - Status atualizado com sucesso
+[21:01:03] - 08-01-2025 - INFO - Login realizado com sucesso - 4001
+[21:01:03] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: titulos
+[21:01:23] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_052tbkxd_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_052tbkxd', 'txt']
+[21:01:24] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[21:01:25] - 08-01-2025 - INFO - Comprovante 1º
+[21:01:44] - 08-01-2025 - INFO - Comprovante 2º
+[21:01:59] - 08-01-2025 - INFO - Comprovante 3º
+[21:02:14] - 08-01-2025 - INFO - Comprovante 4º
+[21:02:29] - 08-01-2025 - INFO - Comprovante 5º
+[21:02:45] - 08-01-2025 - INFO - Comprovante 6º
+[21:03:00] - 08-01-2025 - INFO - Comprovante 7º
+[21:03:16] - 08-01-2025 - INFO - Comprovante 8º
+[21:03:31] - 08-01-2025 - INFO - Comprovante 9º
+[21:03:46] - 08-01-2025 - INFO - Comprovante 10º
+[21:04:01] - 08-01-2025 - INFO - Paginas restantes 1.4
+[21:04:03] - 08-01-2025 - INFO - teste aqui 2 
+[21:04:04] - 08-01-2025 - INFO - Comprovante 1º
+[21:04:20] - 08-01-2025 - INFO - teste aqui 2 
+[21:04:21] - 08-01-2025 - INFO - Comprovante 2º
+[21:04:38] - 08-01-2025 - INFO - teste aqui 2 
+[21:04:39] - 08-01-2025 - INFO - Comprovante 3º
+[21:04:55] - 08-01-2025 - INFO - teste aqui 2 
+[21:04:56] - 08-01-2025 - INFO - Comprovante 4º
+[21:05:11] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[21:05:11] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: convenio
+[21:05:11] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:05:11] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: convenio
+[21:05:35] - 08-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_4001
+[21:05:35] - 08-01-2025 - INFO - Indo para pix
+[21:05:35] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:05:35] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:05:35] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: pix
+[21:05:49] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_d7b3nbt9_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_d7b3nbt9', 'txt']
+[21:05:50] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[21:05:52] - 08-01-2025 - INFO - Comprovante 1º
+[21:06:21] - 08-01-2025 - INFO - Comprovante 2º
+[21:06:51] - 08-01-2025 - INFO - Comprovante 3º
+[21:07:21] - 08-01-2025 - INFO - Comprovante 4º
+[21:07:51] - 08-01-2025 - INFO - Comprovante 5º
+[21:08:20] - 08-01-2025 - INFO - Comprovante 6º
+[21:08:50] - 08-01-2025 - INFO - Comprovante 7º
+[21:09:20] - 08-01-2025 - INFO - Comprovante 8º
+[21:09:50] - 08-01-2025 - INFO - Comprovante 9º
+[21:10:19] - 08-01-2025 - INFO - Comprovante 10º
+[21:10:49] - 08-01-2025 - INFO - Comprovante 1º
+[21:11:19] - 08-01-2025 - INFO - Comprovante 2º
+[21:11:49] - 08-01-2025 - INFO - Comprovante 3º
+[21:12:18] - 08-01-2025 - INFO - Comprovante 4º
+[21:12:48] - 08-01-2025 - INFO - Comprovante 5º
+[21:13:18] - 08-01-2025 - INFO - Comprovante 6º
+[21:13:46] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[21:13:46] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: pdf
+[21:13:46] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:13:46] - 08-01-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_4001
+[21:13:54] - 08-01-2025 - INFO - Status atualizado com sucesso
+[21:14:18] - 08-01-2025 - INFO - Login realizado com sucesso - 5004
+[21:14:18] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_5004 | etapa: titulos
+[21:14:40] - 08-01-2025 - INFO - Nao existe cp de Titulos para periodo informado
+[21:14:40] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:14:40] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:14:40] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_5004 | etapa: convenio
+[21:15:04] - 08-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_5004
+[21:15:04] - 08-01-2025 - INFO - Indo para pix
+[21:15:04] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:15:04] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:15:04] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_5004 | etapa: pix
+[21:15:19] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_35q7i7pq_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_35q7i7pq', 'txt']
+[21:15:19] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[21:15:19] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:15:19] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:15:19] - 08-01-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_5004
+[21:15:28] - 08-01-2025 - INFO - Status atualizado com sucesso
+[21:15:52] - 08-01-2025 - INFO - Login realizado com sucesso - 4097
+[21:15:52] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4097 | etapa: titulos
+[21:16:12] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_wyh5yqag_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_wyh5yqag', 'txt']
+[21:16:12] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[21:16:12] - 08-01-2025 - INFO - Nenhum cp encontrado para titulos - Cliente: IMPETUS_LTDA_4097
+[21:16:12] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:16:12] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:16:12] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4097 | etapa: convenio
+[21:16:36] - 08-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_4097
+[21:16:36] - 08-01-2025 - INFO - Indo para pix
+[21:16:36] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:16:36] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:16:36] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4097 | etapa: pix
+[21:16:50] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_ipo7k27m_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_ipo7k27m', 'txt']
+[21:16:51] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[21:16:51] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:16:51] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:16:51] - 08-01-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_4097
+[21:17:00] - 08-01-2025 - INFO - Status atualizado com sucesso
+[21:17:23] - 08-01-2025 - INFO - Login realizado com sucesso - 4364
+[21:17:23] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4364 | etapa: titulos
+[21:17:45] - 08-01-2025 - INFO - Nao existe cp de Titulos para periodo informado
+[21:17:46] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:17:46] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:17:46] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4364 | etapa: convenio
+[21:18:09] - 08-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_4364
+[21:18:09] - 08-01-2025 - INFO - Indo para pix
+[21:18:10] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:18:10] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:18:10] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4364 | etapa: pix
+[21:18:24] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_nx57jt_o_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_nx57jt_o', 'txt']
+[21:18:24] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[21:18:24] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:18:25] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:18:25] - 08-01-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_4364
+[21:18:33] - 08-01-2025 - INFO - Status atualizado com sucesso
+[21:18:33] - 08-01-2025 - INFO - Todos clientes processados - Etapa Renomear CP
+[21:18:33] - 08-01-2025 - INFO - Todos clientes marcados como concluidos
+[21:18:33] - 08-01-2025 - INFO - Nao existe informações na planilha para continuar
+[21:18:34] - 08-01-2025 - INFO - Renomeado: titulos1.0_08.01.2025.pdf para 08.01.2025_CP_BMW FINANCEIRA_R$9.466,86.pdf
+[21:18:34] - 08-01-2025 - INFO - Renomeado: titulos10.0_08.01.2025.pdf para 08.01.2025_CP_NEW CABOS LTDA_R$43.689,80.pdf
+[21:18:34] - 08-01-2025 - INFO - Renomeado: titulos11.0_08.01.2025.pdf para 08.01.2025_CP_LOJA ELETRICA LTDA_R$25.609,28.pdf
+[21:18:34] - 08-01-2025 - INFO - Renomeado: titulos12.0_08.01.2025.pdf para 08.01.2025_CP_LOJA ELETRICA LTDA_R$21.986,46.pdf
+[21:18:34] - 08-01-2025 - INFO - Renomeado: titulos13.0_08.01.2025.pdf para 08.01.2025_CP_A B R L MAQUINAS EQU_R$4.830,00.pdf
+[21:18:34] - 08-01-2025 - INFO - Renomeado: titulos14.0_08.01.2025.pdf para 08.01.2025_CP_PORTO SEGURO CIA DE _R$526,00.pdf
+[21:18:34] - 08-01-2025 - INFO - Renomeado: titulos2.0_08.01.2025.pdf para 08.01.2025_CP_ELEVAR  LOCACOES E T_R$6.750,00.pdf
+[21:18:34] - 08-01-2025 - INFO - Renomeado: titulos3.0_08.01.2025.pdf para 08.01.2025_CP_CESAR CONTAINERS E E_R$600,00.pdf
+[21:18:34] - 08-01-2025 - INFO - Renomeado: titulos4.0_08.01.2025.pdf para 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf
+[21:18:34] - 08-01-2025 - INFO - Renomeado: titulos5.0_08.01.2025.pdf para 08.01.2025_CP_ATIVA LOCACAO LTDA_R$1.400,00.pdf
+[21:18:34] - 08-01-2025 - INFO - Arquivo já existe: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf. Pulando...
+[21:18:34] - 08-01-2025 - INFO - Renomeado: titulos7.0_08.01.2025.pdf para 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.644,93.pdf
+[21:18:34] - 08-01-2025 - INFO - Renomeado: titulos8.0_08.01.2025.pdf para 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.435,86.pdf
+[21:18:34] - 08-01-2025 - INFO - Renomeado: titulos9.0_08.01.2025.pdf para 08.01.2025_CP_MOVIDA PARTICIPACOES_R$2.681,69.pdf
+[21:18:34] - 08-01-2025 - INFO - Renomeado: titulos1.0_08.01.2025.pdf para 08.01.2025_CP_ARRECADACAO PREFEITU_R$167,88.pdf
+[21:18:34] - 08-01-2025 - INFO - Renomeado: titulos2.0_08.01.2025.pdf para 08.01.2025_CP_COOPERATIVA DE ENERG_R$2.047,65.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_A B R L MAQUINAS EQU_R$4.830,00.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$1.400,00.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_BMW FINANCEIRA_R$9.466,86.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_CESAR CONTAINERS E E_R$600,00.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_ELEVAR  LOCACOES E T_R$6.750,00.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_LOJA ELETRICA LTDA_R$21.986,46.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_LOJA ELETRICA LTDA_R$25.609,28.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$2.681,69.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.435,86.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.644,93.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_NEW CABOS LTDA_R$43.689,80.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_PORTO SEGURO CIA DE _R$526,00.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix1.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix10.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix11.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix12.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix13.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix14.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix15.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix16.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix2.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix3.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix4.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix5.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix6.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix7.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix8.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix9.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: titulos6.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.0.1.2025_CP_ADRIANA_R$ 545,01.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP.AUTEN_R$ 2.091,32.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_ADRIANA_R$ 3.454,09.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_ARRECADACAO PREFEITU_R$167,88.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_BYANCA_R$ 1.121,68.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_COOPERATIVA DE ENERG_R$2.047,65.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_HENRIQUE_R$ 2.046,00.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_MICHELI_R$ 2.532,15.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: 08.01.2025_CP_MICHELI_R$ 200,00.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix1.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix2.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix3.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix4.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix5.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Imposto - Arquivo não corresponde ao padrão: pix6.0_08.01.2025.pdf
+[21:18:34] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_JANE APARECIDA DO NA_R$80.00.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_ATOM T I E S LTDA_R$15232.47.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_ARKADY SEGURANCA E V_R$3009.00.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$52726.68.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$102326.37.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$110037.26.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_ELO -MATERIAIS P_ CO_R$1890.00.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_19.860.278 AUGUSTO F_R$145.40.pdf
+[21:18:35] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_JANE APARECIDA DO NA_R$80.00.pdf já existe. Pulando renomeação.
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_JACIARA GALDINA DA C_R$1551.00.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_58.611.208 FELLIPE E_R$3500.00.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_ALUISIO DA SILVA_R$350.00.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_KEEPER ENERGIA SOLAR_R$14200.00.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_SISTEL SISTEMAS ELET_R$1319.98.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_Pedro Pereira Doming_R$1104.00.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_ANDREA REZENDE ARANT_R$1300.00.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_BYANCA TORRES COSTA_R$1121.68.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_Micheli Oliveira Sou_R$200.00.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_Micheli Oliveira Sou_R$2532.15.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_Adriana Moreira de M_R$545.01.pdf
+[21:18:35] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_Adriana Moreira de M_R$3454.09.pdf
+[21:18:36] - 08-01-2025 - INFO - Arquivo renomeado para: 08.01.2025_CP_Henrique Aristides d_R$2046.00.pdf
+[21:37:10] - 08-01-2025 - INFO - Login realizado com sucesso - 4001
+[21:48:49] - 08-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[21:48:49] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.435,86.pdf. Pulando...
+[21:48:49] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[21:53:02] - 08-01-2025 - INFO - Login realizado com sucesso - 3258
+[21:53:02] - 08-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: titulos
+[21:53:22] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_se6uas5e_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_se6uas5e', 'txt']
+[21:53:23] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[21:53:24] - 08-01-2025 - INFO - Comprovante 1º
+[21:53:43] - 08-01-2025 - INFO - Comprovante 2º
+[21:53:57] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[21:53:57] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: convenio
+[21:53:58] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:53:58] - 08-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: convenio
+[21:54:21] - 08-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente SALGADARIA_3258
+[21:54:21] - 08-01-2025 - INFO - Indo para pix
+[21:54:21] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:54:22] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:54:22] - 08-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: pix
+[21:54:36] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_ef7a8dak_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_ef7a8dak', 'txt']
+[21:54:36] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[21:54:38] - 08-01-2025 - INFO - Comprovante 1º
+[21:55:08] - 08-01-2025 - INFO - Comprovante 2º
+[21:55:38] - 08-01-2025 - INFO - Comprovante 3º
+[21:56:08] - 08-01-2025 - INFO - Comprovante 4º
+[21:56:37] - 08-01-2025 - INFO - Comprovante 5º
+[21:57:07] - 08-01-2025 - INFO - Comprovante 6º
+[21:57:35] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[21:57:35] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: pdf
+[21:57:35] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[21:57:35] - 08-01-2025 - INFO - Processo finalizado para Cliente: SALGADARIA_3258
+[21:57:44] - 08-01-2025 - INFO - Status atualizado com sucesso
+[21:58:08] - 08-01-2025 - INFO - Login realizado com sucesso - 4001
+[21:58:08] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: titulos
+[21:58:27] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_8y_p6lk9_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_8y_p6lk9', 'txt']
+[21:58:28] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[21:58:29] - 08-01-2025 - INFO - Comprovante 1º
+[21:58:44] - 08-01-2025 - INFO - Comprovante 2º
+[21:58:59] - 08-01-2025 - INFO - Comprovante 3º
+[21:59:15] - 08-01-2025 - INFO - Comprovante 4º
+[21:59:30] - 08-01-2025 - INFO - Comprovante 5º
+[21:59:45] - 08-01-2025 - INFO - Comprovante 6º
+[22:00:01] - 08-01-2025 - INFO - Comprovante 7º
+[22:00:16] - 08-01-2025 - INFO - Comprovante 8º
+[22:00:31] - 08-01-2025 - INFO - Comprovante 9º
+[22:00:46] - 08-01-2025 - INFO - Comprovante 10º
+[22:01:01] - 08-01-2025 - INFO - Paginas restantes 1.4
+[22:01:03] - 08-01-2025 - INFO - teste aqui 2 
+[22:01:04] - 08-01-2025 - INFO - Comprovante 1º
+[22:01:20] - 08-01-2025 - INFO - teste aqui 2 
+[22:01:21] - 08-01-2025 - INFO - Comprovante 2º
+[22:01:38] - 08-01-2025 - INFO - teste aqui 2 
+[22:01:39] - 08-01-2025 - INFO - Comprovante 3º
+[22:01:55] - 08-01-2025 - INFO - teste aqui 2 
+[22:01:56] - 08-01-2025 - INFO - Comprovante 4º
+[22:02:11] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[22:02:11] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: convenio
+[22:02:11] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[22:02:11] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: convenio
+[22:04:41] - 08-01-2025 - INFO - Login realizado com sucesso - 4001
+[22:04:41] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: convenio
+[22:05:05] - 08-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_4001
+[22:05:05] - 08-01-2025 - INFO - Indo para pix
+[22:05:05] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[22:05:05] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[22:05:05] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: pix
+[22:05:19] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_zg3m2ggl_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_zg3m2ggl', 'txt']
+[22:05:20] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[22:05:22] - 08-01-2025 - INFO - Comprovante 1º
+[22:05:52] - 08-01-2025 - INFO - Comprovante 2º
+[22:06:22] - 08-01-2025 - INFO - Comprovante 3º
+[22:06:51] - 08-01-2025 - INFO - Comprovante 4º
+[22:07:21] - 08-01-2025 - INFO - Comprovante 5º
+[22:07:51] - 08-01-2025 - INFO - Comprovante 6º
+[22:08:20] - 08-01-2025 - INFO - Comprovante 7º
+[22:08:50] - 08-01-2025 - INFO - Comprovante 8º
+[22:09:20] - 08-01-2025 - INFO - Comprovante 9º
+[22:09:49] - 08-01-2025 - INFO - Comprovante 10º
+[22:10:19] - 08-01-2025 - INFO - Comprovante 1º
+[22:10:49] - 08-01-2025 - INFO - Comprovante 2º
+[22:11:19] - 08-01-2025 - INFO - Comprovante 3º
+[22:11:53] - 08-01-2025 - INFO - Comprovante 4º
+[22:12:23] - 08-01-2025 - INFO - Comprovante 5º
+[22:12:53] - 08-01-2025 - INFO - Comprovante 6º
+[22:13:21] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[22:13:21] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: pdf
+[22:13:21] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[22:13:21] - 08-01-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_4001
+[22:13:29] - 08-01-2025 - INFO - Status atualizado com sucesso
+[22:13:29] - 08-01-2025 - INFO - Todos clientes processados - Etapa Renomear CP
+[22:13:29] - 08-01-2025 - INFO - Todos clientes marcados como concluidos
+[22:13:29] - 08-01-2025 - INFO - Nao existe informações na planilha para continuar
+[22:13:30] - 08-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[22:13:30] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_BMW FINANCEIRA_R$9.466,86.pdf. Pulando...
+[22:13:30] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_NEW CABOS LTDA_R$43.689,80.pdf. Pulando...
+[22:13:30] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_LOJA ELETRICA LTDA_R$25.609,28.pdf. Pulando...
+[22:13:30] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_LOJA ELETRICA LTDA_R$21.986,46.pdf. Pulando...
+[22:13:30] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_A B R L MAQUINAS EQU_R$4.830,00.pdf. Pulando...
+[22:13:30] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_PORTO SEGURO CIA DE _R$526,00.pdf. Pulando...
+[22:13:30] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_ELEVAR  LOCACOES E T_R$6.750,00.pdf. Pulando...
+[22:13:30] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_CESAR CONTAINERS E E_R$600,00.pdf. Pulando...
+[22:13:30] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf. Pulando...
+[22:13:31] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$1.400,00.pdf. Pulando...
+[22:13:31] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf. Pulando...
+[22:13:31] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.644,93.pdf. Pulando...
+[22:13:31] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.435,86.pdf. Pulando...
+[22:13:31] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$2.681,69.pdf. Pulando...
+[22:13:31] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[22:13:31] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[22:13:31] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_ARRECADACAO PREFEITU_R$167,88.pdf. Pulando...
+[22:13:31] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_COOPERATIVA DE ENERG_R$2.047,65.pdf. Pulando...
+[22:13:31] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[22:13:31] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[22:13:31] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[22:13:31] - 08-01-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_19.860.278 AUGUSTO F_R$145.40.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_58.611.208 FELLIPE E_R$3500.00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_A B R L MAQUINAS EQU_R$4.830,00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ALUISIO DA SILVA_R$350.00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ANDREA REZENDE ARANT_R$1300.00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ARKADY SEGURANCA E V_R$3009.00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$1.400,00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ATOM T I E S LTDA_R$15232.47.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_BMW FINANCEIRA_R$9.466,86.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_CESAR CONTAINERS E E_R$600,00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$102326.37.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$110037.26.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$52726.68.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ELEVAR  LOCACOES E T_R$6.750,00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ELO -MATERIAIS P_ CO_R$1890.00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_JACIARA GALDINA DA C_R$1551.00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_JANE APARECIDA DO NA_R$80.00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_KEEPER ENERGIA SOLAR_R$14200.00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_LOJA ELETRICA LTDA_R$21.986,46.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_LOJA ELETRICA LTDA_R$25.609,28.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$2.681,69.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.435,86.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.644,93.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_NEW CABOS LTDA_R$43.689,80.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Pedro Pereira Doming_R$1104.00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_PORTO SEGURO CIA DE _R$526,00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_SISTEL SISTEMAS ELET_R$1319.98.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix10.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix11.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix12.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix13.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix14.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix15.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix16.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix4.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix5.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix6.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix7.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix8.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix9.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos1.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos10.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos11.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos12.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos13.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos14.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos2.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos3.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos4.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos5.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos6.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos7.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos8.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos9.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.0.1.2025_CP_ADRIANA_R$ 545,01.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP.AUTEN_R$ 2.091,32.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Adriana Moreira de M_R$3454.09.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Adriana Moreira de M_R$545.01.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ADRIANA_R$ 3.454,09.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ARRECADACAO PREFEITU_R$167,88.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_BYANCA TORRES COSTA_R$1121.68.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_BYANCA_R$ 1.121,68.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_COOPERATIVA DE ENERG_R$2.047,65.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Henrique Aristides d_R$2046.00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_HENRIQUE_R$ 2.046,00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Micheli Oliveira Sou_R$200.00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Micheli Oliveira Sou_R$2532.15.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_MICHELI_R$ 2.532,15.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_MICHELI_R$ 200,00.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix4.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix5.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix6.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos1.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos2.0_08.01.2025.pdf
+[22:13:31] - 08-01-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[22:13:31] - 08-01-2025 - INFO - Etapa renomear PIX iniciada
+[22:13:31] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_JANE APARECIDA DO NA_R$80.00.pdf já existe. Pulando renomeação.
+[22:13:31] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_ATOM T I E S LTDA_R$15232.47.pdf já existe. Pulando renomeação.
+[22:13:31] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_ARKADY SEGURANCA E V_R$3009.00.pdf já existe. Pulando renomeação.
+[22:13:31] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_COBREMACK INDÚSTRIA_R$52726.68.pdf já existe. Pulando renomeação.
+[22:13:31] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_COBREMACK INDÚSTRIA_R$102326.37.pdf já existe. Pulando renomeação.
+[22:13:31] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_COBREMACK INDÚSTRIA_R$110037.26.pdf já existe. Pulando renomeação.
+[22:13:31] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_ELO -MATERIAIS P_ CO_R$1890.00.pdf já existe. Pulando renomeação.
+[22:13:31] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_19.860.278 AUGUSTO F_R$145.40.pdf já existe. Pulando renomeação.
+[22:13:31] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_JANE APARECIDA DO NA_R$80.00.pdf já existe. Pulando renomeação.
+[22:13:31] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_JACIARA GALDINA DA C_R$1551.00.pdf já existe. Pulando renomeação.
+[22:13:31] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_58.611.208 FELLIPE E_R$3500.00.pdf já existe. Pulando renomeação.
+[22:13:31] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_ALUISIO DA SILVA_R$350.00.pdf já existe. Pulando renomeação.
+[22:13:31] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_KEEPER ENERGIA SOLAR_R$14200.00.pdf já existe. Pulando renomeação.
+[22:13:32] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_SISTEL SISTEMAS ELET_R$1319.98.pdf já existe. Pulando renomeação.
+[22:13:32] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_Pedro Pereira Doming_R$1104.00.pdf já existe. Pulando renomeação.
+[22:13:32] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_ANDREA REZENDE ARANT_R$1300.00.pdf já existe. Pulando renomeação.
+[22:13:32] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_BYANCA TORRES COSTA_R$1121.68.pdf já existe. Pulando renomeação.
+[22:13:32] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_Micheli Oliveira Sou_R$200.00.pdf já existe. Pulando renomeação.
+[22:13:32] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_Micheli Oliveira Sou_R$2532.15.pdf já existe. Pulando renomeação.
+[22:13:32] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_Adriana Moreira de M_R$545.01.pdf já existe. Pulando renomeação.
+[22:13:32] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_Adriana Moreira de M_R$3454.09.pdf já existe. Pulando renomeação.
+[22:13:32] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_Henrique Aristides d_R$2046.00.pdf já existe. Pulando renomeação.
+[22:13:32] - 08-01-2025 - INFO - Etapa renomear PIX finalizada
+[22:23:22] - 08-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[22:23:22] - 08-01-2025 - INFO - TITULOS - Renomeado: titulos1.0_08.01.2025.pdf para 08.01.2025_CP_BMW FINANCEIRA_R$9.466,86.pdf
+[22:23:22] - 08-01-2025 - INFO - TITULOS - Renomeado: titulos10.0_08.01.2025.pdf para 08.01.2025_CP_NEW CABOS LTDA_R$43.689,80.pdf
+[22:23:22] - 08-01-2025 - INFO - TITULOS - Renomeado: titulos11.0_08.01.2025.pdf para 08.01.2025_CP_LOJA ELETRICA LTDA_R$25.609,28.pdf
+[22:23:22] - 08-01-2025 - INFO - TITULOS - Renomeado: titulos12.0_08.01.2025.pdf para 08.01.2025_CP_LOJA ELETRICA LTDA_R$21.986,46.pdf
+[22:23:22] - 08-01-2025 - INFO - TITULOS - Renomeado: titulos13.0_08.01.2025.pdf para 08.01.2025_CP_A B R L MAQUINAS EQU_R$4.830,00.pdf
+[22:23:22] - 08-01-2025 - INFO - TITULOS - Renomeado: titulos14.0_08.01.2025.pdf para 08.01.2025_CP_PORTO SEGURO CIA DE _R$526,00.pdf
+[22:23:22] - 08-01-2025 - INFO - TITULOS - Renomeado: titulos2.0_08.01.2025.pdf para 08.01.2025_CP_ELEVAR  LOCACOES E T_R$6.750,00.pdf
+[22:23:22] - 08-01-2025 - INFO - TITULOS - Renomeado: titulos3.0_08.01.2025.pdf para 08.01.2025_CP_CESAR CONTAINERS E E_R$600,00.pdf
+[22:23:23] - 08-01-2025 - INFO - TITULOS - Renomeado: titulos4.0_08.01.2025.pdf para 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf
+[22:23:23] - 08-01-2025 - INFO - TITULOS - Renomeado: titulos5.0_08.01.2025.pdf para 08.01.2025_CP_ATIVA LOCACAO LTDA_R$1.400,00.pdf
+[22:23:23] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf. Pulando...
+[22:23:23] - 08-01-2025 - INFO - TITULOS - Renomeado: titulos7.0_08.01.2025.pdf para 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.644,93.pdf
+[22:23:23] - 08-01-2025 - INFO - TITULOS - Renomeado: titulos8.0_08.01.2025.pdf para 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.435,86.pdf
+[22:23:23] - 08-01-2025 - INFO - TITULOS - Renomeado: titulos9.0_08.01.2025.pdf para 08.01.2025_CP_MOVIDA PARTICIPACOES_R$2.681,69.pdf
+[22:23:23] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[22:24:06] - 08-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[22:24:06] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf. Pulando...
+[22:24:06] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[22:24:06] - 08-01-2025 - INFO - Etapa renomear PIX iniciada
+[22:24:06] - 08-01-2025 - INFO - PIX - Arquivo renomeado para: 08.01.2025_CP_JANE APARECIDA DO NA_R$80.00.pdf
+[22:24:06] - 08-01-2025 - INFO - PIX - Arquivo renomeado para: 08.01.2025_CP_ATOM T I E S LTDA_R$15232.47.pdf
+[22:24:06] - 08-01-2025 - INFO - PIX - Arquivo renomeado para: 08.01.2025_CP_ARKADY SEGURANCA E V_R$3009.00.pdf
+[22:24:06] - 08-01-2025 - INFO - PIX - Arquivo renomeado para: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$52726.68.pdf
+[22:24:06] - 08-01-2025 - INFO - PIX - Arquivo renomeado para: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$102326.37.pdf
+[22:24:06] - 08-01-2025 - INFO - PIX - Arquivo renomeado para: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$110037.26.pdf
+[22:24:06] - 08-01-2025 - INFO - PIX - Arquivo renomeado para: 08.01.2025_CP_ELO -MATERIAIS P_ CO_R$1890.00.pdf
+[22:24:06] - 08-01-2025 - INFO - PIX - Arquivo renomeado para: 08.01.2025_CP_19.860.278 AUGUSTO F_R$145.40.pdf
+[22:24:06] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_JANE APARECIDA DO NA_R$80.00.pdf já existe. Pulando renomeação.
+[22:24:06] - 08-01-2025 - INFO - PIX - Arquivo renomeado para: 08.01.2025_CP_JACIARA GALDINA DA C_R$1551.00.pdf
+[22:24:06] - 08-01-2025 - INFO - PIX - Arquivo renomeado para: 08.01.2025_CP_58.611.208 FELLIPE E_R$3500.00.pdf
+[22:24:06] - 08-01-2025 - INFO - PIX - Arquivo renomeado para: 08.01.2025_CP_ALUISIO DA SILVA_R$350.00.pdf
+[22:24:06] - 08-01-2025 - INFO - PIX - Arquivo renomeado para: 08.01.2025_CP_KEEPER ENERGIA SOLAR_R$14200.00.pdf
+[22:24:06] - 08-01-2025 - INFO - PIX - Arquivo renomeado para: 08.01.2025_CP_SISTEL SISTEMAS ELET_R$1319.98.pdf
+[22:24:06] - 08-01-2025 - INFO - PIX - Arquivo renomeado para: 08.01.2025_CP_Pedro Pereira Doming_R$1104.00.pdf
+[22:24:06] - 08-01-2025 - INFO - PIX - Arquivo renomeado para: 08.01.2025_CP_ANDREA REZENDE ARANT_R$1300.00.pdf
+[22:24:06] - 08-01-2025 - INFO - Etapa renomear PIX finalizada
+[22:24:06] - 08-01-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_19.860.278 AUGUSTO F_R$145.40.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_58.611.208 FELLIPE E_R$3500.00.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_A B R L MAQUINAS EQU_R$4.830,00.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ALUISIO DA SILVA_R$350.00.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ANDREA REZENDE ARANT_R$1300.00.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ARKADY SEGURANCA E V_R$3009.00.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$1.400,00.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ATOM T I E S LTDA_R$15232.47.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_BMW FINANCEIRA_R$9.466,86.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_CESAR CONTAINERS E E_R$600,00.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$102326.37.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$110037.26.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$52726.68.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ELEVAR  LOCACOES E T_R$6.750,00.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ELO -MATERIAIS P_ CO_R$1890.00.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_JACIARA GALDINA DA C_R$1551.00.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_JANE APARECIDA DO NA_R$80.00.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_KEEPER ENERGIA SOLAR_R$14200.00.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_LOJA ELETRICA LTDA_R$21.986,46.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_LOJA ELETRICA LTDA_R$25.609,28.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$2.681,69.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.435,86.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.644,93.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_NEW CABOS LTDA_R$43.689,80.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Pedro Pereira Doming_R$1104.00.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_PORTO SEGURO CIA DE _R$526,00.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_SISTEL SISTEMAS ELET_R$1319.98.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_08.01.2025.pdf
+[22:24:06] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos6.0_08.01.2025.pdf
+[22:24:06] - 08-01-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[22:27:44] - 08-01-2025 - INFO - Login realizado com sucesso - 3258
+[22:27:44] - 08-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: titulos
+[22:28:04] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_eg376lf9_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_eg376lf9', 'txt']
+[22:28:05] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[22:28:06] - 08-01-2025 - INFO - Comprovante 1º
+[22:28:24] - 08-01-2025 - INFO - Comprovante 2º
+[22:28:39] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[22:28:39] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: convenio
+[22:28:39] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[22:28:39] - 08-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: convenio
+[22:29:02] - 08-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente SALGADARIA_3258
+[22:29:02] - 08-01-2025 - INFO - Indo para pix
+[22:29:02] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[22:29:03] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[22:29:03] - 08-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: pix
+[22:29:17] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_k9ksn2yw_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_k9ksn2yw', 'txt']
+[22:29:17] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[22:29:19] - 08-01-2025 - INFO - Comprovante 1º
+[22:29:49] - 08-01-2025 - INFO - Comprovante 2º
+[22:30:18] - 08-01-2025 - INFO - Comprovante 3º
+[22:30:48] - 08-01-2025 - INFO - Comprovante 4º
+[22:31:23] - 08-01-2025 - INFO - Comprovante 5º
+[22:31:52] - 08-01-2025 - INFO - Comprovante 6º
+[22:32:25] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[22:32:25] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: pdf
+[22:32:25] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[22:32:25] - 08-01-2025 - INFO - Processo finalizado para Cliente: SALGADARIA_3258
+[22:32:34] - 08-01-2025 - INFO - Status atualizado com sucesso
+[22:32:58] - 08-01-2025 - INFO - Login realizado com sucesso - 4001
+[22:32:58] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: titulos
+[22:33:17] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess__yq_ds43_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess__yq_ds43', 'txt']
+[22:33:18] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[22:33:19] - 08-01-2025 - INFO - Comprovante 1º
+[22:33:34] - 08-01-2025 - INFO - Comprovante 2º
+[22:33:49] - 08-01-2025 - INFO - Comprovante 3º
+[22:34:04] - 08-01-2025 - INFO - Comprovante 4º
+[22:34:19] - 08-01-2025 - INFO - Comprovante 5º
+[22:34:35] - 08-01-2025 - INFO - Comprovante 6º
+[22:34:50] - 08-01-2025 - INFO - Comprovante 7º
+[22:35:05] - 08-01-2025 - INFO - Comprovante 8º
+[22:35:20] - 08-01-2025 - INFO - Comprovante 9º
+[22:35:39] - 08-01-2025 - INFO - Comprovante 10º
+[22:35:53] - 08-01-2025 - INFO - Paginas restantes 1.4
+[22:35:55] - 08-01-2025 - INFO - teste aqui 2 
+[22:35:56] - 08-01-2025 - INFO - Comprovante 1º
+[22:36:16] - 08-01-2025 - INFO - teste aqui 2 
+[22:36:17] - 08-01-2025 - INFO - Comprovante 2º
+[22:36:33] - 08-01-2025 - INFO - teste aqui 2 
+[22:36:34] - 08-01-2025 - INFO - Comprovante 3º
+[22:36:51] - 08-01-2025 - INFO - teste aqui 2 
+[22:36:52] - 08-01-2025 - INFO - Comprovante 4º
+[22:37:06] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[22:37:06] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: convenio
+[22:37:06] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[22:37:06] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: convenio
+[22:37:30] - 08-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_4001
+[22:37:30] - 08-01-2025 - INFO - Indo para pix
+[22:37:30] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[22:37:30] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[22:37:30] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: pix
+[22:37:44] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_2_a17kzi_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_2_a17kzi', 'txt']
+[22:37:45] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[22:37:47] - 08-01-2025 - INFO - Comprovante 1º
+[22:38:16] - 08-01-2025 - INFO - Comprovante 2º
+[22:38:51] - 08-01-2025 - INFO - Comprovante 3º
+[22:39:21] - 08-01-2025 - INFO - Comprovante 4º
+[22:39:50] - 08-01-2025 - INFO - Comprovante 5º
+[22:40:20] - 08-01-2025 - INFO - Comprovante 6º
+[22:40:49] - 08-01-2025 - INFO - Comprovante 7º
+[22:41:19] - 08-01-2025 - INFO - Comprovante 8º
+[22:41:49] - 08-01-2025 - INFO - Comprovante 9º
+[22:42:18] - 08-01-2025 - INFO - Comprovante 10º
+[22:42:48] - 08-01-2025 - INFO - Comprovante 1º
+[22:43:18] - 08-01-2025 - INFO - Comprovante 2º
+[22:43:47] - 08-01-2025 - INFO - Comprovante 3º
+[22:44:17] - 08-01-2025 - INFO - Comprovante 4º
+[22:44:46] - 08-01-2025 - INFO - Comprovante 5º
+[22:45:16] - 08-01-2025 - INFO - Comprovante 6º
+[22:45:44] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[22:45:44] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: pdf
+[22:45:44] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[22:45:44] - 08-01-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_4001
+[22:45:53] - 08-01-2025 - INFO - Status atualizado com sucesso
+[22:45:53] - 08-01-2025 - INFO - Todos clientes processados - Etapa Renomear CP
+[22:45:53] - 08-01-2025 - INFO - Todos clientes marcados como concluidos
+[22:45:53] - 08-01-2025 - INFO - Nao existe informações na planilha para continuar
+[22:45:54] - 08-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_BMW FINANCEIRA_R$9.466,86.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_NEW CABOS LTDA_R$43.689,80.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_LOJA ELETRICA LTDA_R$25.609,28.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_LOJA ELETRICA LTDA_R$21.986,46.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_A B R L MAQUINAS EQU_R$4.830,00.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_PORTO SEGURO CIA DE _R$526,00.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_ELEVAR  LOCACOES E T_R$6.750,00.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_CESAR CONTAINERS E E_R$600,00.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$1.400,00.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.644,93.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.435,86.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$2.681,69.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[22:45:54] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_ARRECADACAO PREFEITU_R$167,88.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - TITULOS - Arquivo já existe: 08.01.2025_CP_COOPERATIVA DE ENERG_R$2.047,65.pdf. Pulando...
+[22:45:54] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[22:45:54] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[22:45:54] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[22:45:54] - 08-01-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_19.860.278 AUGUSTO F_R$145.40.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_58.611.208 FELLIPE E_R$3500.00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_A B R L MAQUINAS EQU_R$4.830,00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ALUISIO DA SILVA_R$350.00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ANDREA REZENDE ARANT_R$1300.00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ARKADY SEGURANCA E V_R$3009.00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$1.400,00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ATOM T I E S LTDA_R$15232.47.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_BMW FINANCEIRA_R$9.466,86.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_CESAR CONTAINERS E E_R$600,00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$102326.37.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$110037.26.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$52726.68.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ELEVAR  LOCACOES E T_R$6.750,00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ELO -MATERIAIS P_ CO_R$1890.00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_JACIARA GALDINA DA C_R$1551.00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_JANE APARECIDA DO NA_R$80.00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_KEEPER ENERGIA SOLAR_R$14200.00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_LOJA ELETRICA LTDA_R$21.986,46.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_LOJA ELETRICA LTDA_R$25.609,28.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$2.681,69.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.435,86.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.644,93.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_NEW CABOS LTDA_R$43.689,80.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Pedro Pereira Doming_R$1104.00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_PORTO SEGURO CIA DE _R$526,00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_SISTEL SISTEMAS ELET_R$1319.98.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix10.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix11.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix12.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix13.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix14.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix15.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix16.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix4.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix5.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix6.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix7.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix8.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix9.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos1.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos10.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos11.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos12.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos13.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos14.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos2.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos3.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos4.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos5.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos6.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos7.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos8.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos9.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP.AUTEN_R$ 2.091,32.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Adriana Moreira de M_R$3454.09.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Adriana Moreira de M_R$545.01.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ARRECADACAO PREFEITU_R$167,88.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_BYANCA TORRES COSTA_R$1121.68.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_COOPERATIVA DE ENERG_R$2.047,65.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Henrique Aristides d_R$2046.00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Micheli Oliveira Sou_R$200.00.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Micheli Oliveira Sou_R$2532.15.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix4.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix5.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix6.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos1.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos2.0_08.01.2025.pdf
+[22:45:54] - 08-01-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[22:45:54] - 08-01-2025 - INFO - Etapa renomear PIX iniciada
+[22:45:54] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_JANE APARECIDA DO NA_R$80.00.pdf já existe. Pulando renomeação.
+[22:45:54] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_ATOM T I E S LTDA_R$15232.47.pdf já existe. Pulando renomeação.
+[22:45:54] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_ARKADY SEGURANCA E V_R$3009.00.pdf já existe. Pulando renomeação.
+[22:45:54] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_COBREMACK INDÚSTRIA_R$52726.68.pdf já existe. Pulando renomeação.
+[22:45:54] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_COBREMACK INDÚSTRIA_R$102326.37.pdf já existe. Pulando renomeação.
+[22:45:54] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_COBREMACK INDÚSTRIA_R$110037.26.pdf já existe. Pulando renomeação.
+[22:45:54] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_ELO -MATERIAIS P_ CO_R$1890.00.pdf já existe. Pulando renomeação.
+[22:45:54] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_19.860.278 AUGUSTO F_R$145.40.pdf já existe. Pulando renomeação.
+[22:45:54] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_JANE APARECIDA DO NA_R$80.00.pdf já existe. Pulando renomeação.
+[22:45:54] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_JACIARA GALDINA DA C_R$1551.00.pdf já existe. Pulando renomeação.
+[22:45:54] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_58.611.208 FELLIPE E_R$3500.00.pdf já existe. Pulando renomeação.
+[22:45:54] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_ALUISIO DA SILVA_R$350.00.pdf já existe. Pulando renomeação.
+[22:45:55] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_KEEPER ENERGIA SOLAR_R$14200.00.pdf já existe. Pulando renomeação.
+[22:45:55] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_SISTEL SISTEMAS ELET_R$1319.98.pdf já existe. Pulando renomeação.
+[22:45:55] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_Pedro Pereira Doming_R$1104.00.pdf já existe. Pulando renomeação.
+[22:45:55] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_ANDREA REZENDE ARANT_R$1300.00.pdf já existe. Pulando renomeação.
+[22:45:55] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_BYANCA TORRES COSTA_R$1121.68.pdf já existe. Pulando renomeação.
+[22:45:55] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_Micheli Oliveira Sou_R$200.00.pdf já existe. Pulando renomeação.
+[22:45:55] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_Micheli Oliveira Sou_R$2532.15.pdf já existe. Pulando renomeação.
+[22:45:55] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_Adriana Moreira de M_R$545.01.pdf já existe. Pulando renomeação.
+[22:45:55] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_Adriana Moreira de M_R$3454.09.pdf já existe. Pulando renomeação.
+[22:45:55] - 08-01-2025 - INFO - O arquivo 08.01.2025_CP_Henrique Aristides d_R$2046.00.pdf já existe. Pulando renomeação.
+[22:45:55] - 08-01-2025 - INFO - Etapa renomear PIX finalizada
+[23:00:09] - 08-01-2025 - INFO - Etapa renomear PIX finalizada
+[23:02:49] - 08-01-2025 - INFO - Etapa renomear PIX finalizada
+[23:04:46] - 08-01-2025 - INFO - Etapa renomear PIX finalizada
+[23:13:38] - 08-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[23:13:38] - 08-01-2025 - INFO - TITULOS - Renomeado: titulos6.0_08.01.2025.pdf para 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00_V2.pdf
+[23:13:38] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[23:14:33] - 08-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[23:14:33] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf. Pulando...
+[23:14:33] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$1.400,00.pdf. Pulando...
+[23:14:33] - 08-01-2025 - INFO - TITULOS - Erro ao processar titulos6.0_08.01.2025.pdf: [WinError 183] Não é possível criar um arquivo já existente: 'C:\\Users\\axlda\\OneDrive\\1. Area de Trabalho_Note Dell_Alexandre David\\BANCOS_OP\\RPA_SICOOB - v2\\TESTE_CP\\titulos6.0_08.01.2025.pdf' -> 'C:\\Users\\axlda\\OneDrive\\1. Area de Trabalho_Note Dell_Alexandre David\\BANCOS_OP\\RPA_SICOOB - v2\\TESTE_CP\\08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00_V2.pdf'
+[23:14:33] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.644,93.pdf. Pulando...
+[23:14:33] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[23:15:24] - 08-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[23:15:24] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf. Pulando...
+[23:15:24] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$1.400,00.pdf. Pulando...
+[23:15:24] - 08-01-2025 - INFO - TITULOS - Erro ao processar titulos6.0_08.01.2025.pdf: [WinError 183] Não é possível criar um arquivo já existente: 'C:\\Users\\axlda\\OneDrive\\1. Area de Trabalho_Note Dell_Alexandre David\\BANCOS_OP\\RPA_SICOOB - v2\\TESTE_CP\\titulos6.0_08.01.2025.pdf' -> 'C:\\Users\\axlda\\OneDrive\\1. Area de Trabalho_Note Dell_Alexandre David\\BANCOS_OP\\RPA_SICOOB - v2\\TESTE_CP\\08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00_V2.pdf'
+[23:15:24] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.644,93.pdf. Pulando...
+[23:15:24] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[23:15:58] - 08-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[23:15:58] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf. Pulando...
+[23:15:58] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$1.400,00.pdf. Pulando...
+[23:15:58] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.644,93.pdf. Pulando...
+[23:15:58] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[23:18:26] - 08-01-2025 - INFO - Login realizado com sucesso - 3258
+[23:18:26] - 08-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: titulos
+[23:18:46] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_gef85nt0_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_gef85nt0', 'txt']
+[23:18:46] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[23:18:47] - 08-01-2025 - INFO - Comprovante 1º
+[23:19:06] - 08-01-2025 - INFO - Comprovante 2º
+[23:19:20] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[23:19:20] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: convenio
+[23:19:20] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[23:19:20] - 08-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: convenio
+[23:19:44] - 08-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente SALGADARIA_3258
+[23:19:44] - 08-01-2025 - INFO - Indo para pix
+[23:19:44] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[23:19:44] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[23:19:44] - 08-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: pix
+[23:19:58] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_v8ppch_z_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_v8ppch_z', 'txt']
+[23:19:59] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[23:20:01] - 08-01-2025 - INFO - Comprovante 1º
+[23:20:31] - 08-01-2025 - INFO - Comprovante 2º
+[23:21:00] - 08-01-2025 - INFO - Comprovante 3º
+[23:21:30] - 08-01-2025 - INFO - Comprovante 4º
+[23:21:59] - 08-01-2025 - INFO - Comprovante 5º
+[23:22:29] - 08-01-2025 - INFO - Comprovante 6º
+[23:22:57] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[23:22:57] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: pdf
+[23:22:57] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[23:22:57] - 08-01-2025 - INFO - Processo finalizado para Cliente: SALGADARIA_3258
+[23:23:05] - 08-01-2025 - INFO - Status atualizado com sucesso
+[23:23:29] - 08-01-2025 - INFO - Login realizado com sucesso - 4001
+[23:23:29] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: titulos
+[23:23:49] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_f69egejv_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_f69egejv', 'txt']
+[23:23:49] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[23:23:50] - 08-01-2025 - INFO - Comprovante 1º
+[23:24:06] - 08-01-2025 - INFO - Comprovante 2º
+[23:24:21] - 08-01-2025 - INFO - Comprovante 3º
+[23:24:36] - 08-01-2025 - INFO - Comprovante 4º
+[23:24:51] - 08-01-2025 - INFO - Comprovante 5º
+[23:25:06] - 08-01-2025 - INFO - Comprovante 6º
+[23:25:22] - 08-01-2025 - INFO - Comprovante 7º
+[23:25:37] - 08-01-2025 - INFO - Comprovante 8º
+[23:25:52] - 08-01-2025 - INFO - Comprovante 9º
+[23:26:07] - 08-01-2025 - INFO - Comprovante 10º
+[23:26:25] - 08-01-2025 - INFO - Paginas restantes 1.4
+[23:26:27] - 08-01-2025 - INFO - teste aqui 2 
+[23:26:28] - 08-01-2025 - INFO - Comprovante 1º
+[23:26:44] - 08-01-2025 - INFO - teste aqui 2 
+[23:26:45] - 08-01-2025 - INFO - Comprovante 2º
+[23:27:01] - 08-01-2025 - INFO - teste aqui 2 
+[23:27:02] - 08-01-2025 - INFO - Comprovante 3º
+[23:27:19] - 08-01-2025 - INFO - teste aqui 2 
+[23:27:20] - 08-01-2025 - INFO - Comprovante 4º
+[23:27:34] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[23:27:34] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: convenio
+[23:27:34] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[23:27:34] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: convenio
+[23:27:58] - 08-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_4001
+[23:27:58] - 08-01-2025 - INFO - Indo para pix
+[23:27:58] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[23:27:58] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[23:27:58] - 08-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: pix
+[23:28:12] - 08-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_td98s2_k_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_td98s2_k', 'txt']
+[23:28:13] - 08-01-2025 - INFO - Total de CP salvo na planilha.
+[23:28:15] - 08-01-2025 - INFO - Comprovante 1º
+[23:28:44] - 08-01-2025 - INFO - Comprovante 2º
+[23:29:14] - 08-01-2025 - INFO - Comprovante 3º
+[23:29:43] - 08-01-2025 - INFO - Comprovante 4º
+[23:30:13] - 08-01-2025 - INFO - Comprovante 5º
+[23:30:42] - 08-01-2025 - INFO - Comprovante 6º
+[23:31:12] - 08-01-2025 - INFO - Comprovante 7º
+[23:31:42] - 08-01-2025 - INFO - Comprovante 8º
+[23:32:11] - 08-01-2025 - INFO - Comprovante 9º
+[23:32:41] - 08-01-2025 - INFO - Comprovante 10º
+[23:33:11] - 08-01-2025 - INFO - Comprovante 1º
+[23:33:41] - 08-01-2025 - INFO - Comprovante 2º
+[23:34:10] - 08-01-2025 - INFO - Comprovante 3º
+[23:34:40] - 08-01-2025 - INFO - Comprovante 4º
+[23:35:09] - 08-01-2025 - INFO - Comprovante 5º
+[23:35:44] - 08-01-2025 - INFO - Comprovante 6º
+[23:36:12] - 08-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[23:36:12] - 08-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: pdf
+[23:36:12] - 08-01-2025 - INFO - Etapa atualizado com sucesso
+[23:36:12] - 08-01-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_4001
+[23:36:21] - 08-01-2025 - INFO - Status atualizado com sucesso
+[23:36:21] - 08-01-2025 - INFO - Todos clientes processados - Etapa Renomear CP
+[23:36:21] - 08-01-2025 - INFO - Todos clientes marcados como concluidos
+[23:36:21] - 08-01-2025 - INFO - Nao existe informações na planilha para continuar
+[23:36:22] - 08-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_BMW FINANCEIRA_R$9.466,86.pdf. Pulando...
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_NEW CABOS LTDA_R$43.689,80.pdf. Pulando...
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_LOJA ELETRICA LTDA_R$25.609,28.pdf. Pulando...
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_LOJA ELETRICA LTDA_R$21.986,46.pdf. Pulando...
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_A B R L MAQUINAS EQU_R$4.830,00.pdf. Pulando...
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_PORTO SEGURO CIA DE _R$526,00.pdf. Pulando...
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_ELEVAR  LOCACOES E T_R$6.750,00.pdf. Pulando...
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_CESAR CONTAINERS E E_R$600,00.pdf. Pulando...
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf. Pulando...
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$1.400,00.pdf. Pulando...
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Renomeado: titulos6.0_08.01.2025.pdf para 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00_V2.pdf
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.644,93.pdf. Pulando...
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.435,86.pdf. Pulando...
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$2.681,69.pdf. Pulando...
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_ARRECADACAO PREFEITU_R$167,88.pdf. Pulando...
+[23:36:22] - 08-01-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 08.01.2025_CP_COOPERATIVA DE ENERG_R$2.047,65.pdf. Pulando...
+[23:36:22] - 08-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[23:36:22] - 08-01-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_19.860.278 AUGUSTO F_R$145.40.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_58.611.208 FELLIPE E_R$3500.00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_A B R L MAQUINAS EQU_R$4.830,00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ALUISIO DA SILVA_R$350.00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ANDREA REZENDE ARANT_R$1300.00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ARKADY SEGURANCA E V_R$3009.00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$1.400,00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ATIVA LOCACAO LTDA_R$6.900,00_V2.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ATOM T I E S LTDA_R$15232.47.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_BMW FINANCEIRA_R$9.466,86.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_CESAR CONTAINERS E E_R$600,00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$102326.37.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$110037.26.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_COBREMACK INDÚSTRIA_R$52726.68.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ELEVAR  LOCACOES E T_R$6.750,00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ELO -MATERIAIS P_ CO_R$1890.00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_JACIARA GALDINA DA C_R$1551.00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_JANE APARECIDA DO NA_R$80.00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_KEEPER ENERGIA SOLAR_R$14200.00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_LOJA ELETRICA LTDA_R$21.986,46.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_LOJA ELETRICA LTDA_R$25.609,28.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$2.681,69.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.435,86.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_MOVIDA PARTICIPACOES_R$3.644,93.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_NEW CABOS LTDA_R$43.689,80.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Pedro Pereira Doming_R$1104.00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_PORTO SEGURO CIA DE _R$526,00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_SISTEL SISTEMAS ELET_R$1319.98.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix10.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix11.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix12.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix13.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix14.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix15.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix16.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix4.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix5.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix6.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix7.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix8.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix9.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos1.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos10.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos11.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos12.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos13.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos14.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos2.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos3.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos4.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos5.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos7.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos8.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos9.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP.AUTEN_R$ 2.091,32.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Adriana Moreira de M_R$3454.09.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Adriana Moreira de M_R$545.01.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_ARRECADACAO PREFEITU_R$167,88.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_BYANCA TORRES COSTA_R$1121.68.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_COOPERATIVA DE ENERG_R$2.047,65.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Henrique Aristides d_R$2046.00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Micheli Oliveira Sou_R$200.00.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 08.01.2025_CP_Micheli Oliveira Sou_R$2532.15.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix4.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix5.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix6.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos1.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos2.0_08.01.2025.pdf
+[23:36:22] - 08-01-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[23:36:23] - 08-01-2025 - INFO - Etapa renomear PIX finalizada

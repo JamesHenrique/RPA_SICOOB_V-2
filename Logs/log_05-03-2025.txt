@@ -1,0 +1,67 @@
+[14:33:20] - 05-03-2025 - INFO - Login realizado com sucesso - 4277
+[14:33:20] - 05-03-2025 - INFO - Cliente: RECAP_PNEUS_4277 | etapa: titulos
+[14:33:46] - 05-03-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_v8pxlikm_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_v8pxlikm', 'txt']
+[14:33:47] - 05-03-2025 - INFO - Total de CP salvo na planilha.
+[14:33:47] - 05-03-2025 - INFO - Nenhum cp encontrado para titulos - Cliente: RECAP_PNEUS_4277
+[14:33:47] - 05-03-2025 - INFO - Etapa atualizado com sucesso
+[14:33:47] - 05-03-2025 - INFO - Etapa atualizado com sucesso
+[14:33:47] - 05-03-2025 - INFO - Cliente: RECAP_PNEUS_4277 | etapa: convenio
+[14:34:20] - 05-03-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente RECAP_PNEUS_4277
+[14:34:20] - 05-03-2025 - INFO - Indo para pix
+[14:34:20] - 05-03-2025 - INFO - Etapa atualizado com sucesso
+[14:34:20] - 05-03-2025 - INFO - Etapa atualizado com sucesso
+[14:34:20] - 05-03-2025 - INFO - Cliente: RECAP_PNEUS_4277 | etapa: pix
+[14:36:19] - 05-03-2025 - INFO - Etapa atualizado com sucesso
+[14:36:20] - 05-03-2025 - INFO - Etapa atualizado com sucesso
+[14:36:20] - 05-03-2025 - INFO - Processo finalizado para Cliente: RECAP_PNEUS_4277
+[14:36:28] - 05-03-2025 - INFO - Status atualizado com sucesso
+[14:36:52] - 05-03-2025 - INFO - Login realizado com sucesso - 3214
+[14:36:52] - 05-03-2025 - INFO - Cliente: RECAP_PNEUS_3214 | etapa: titulos
+[14:37:18] - 05-03-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_9dm2gh6q_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_9dm2gh6q', 'txt']
+[14:37:18] - 05-03-2025 - INFO - Total de CP salvo na planilha.
+[14:37:18] - 05-03-2025 - INFO - Nenhum cp encontrado para titulos - Cliente: RECAP_PNEUS_3214
+[14:37:19] - 05-03-2025 - INFO - Etapa atualizado com sucesso
+[14:37:19] - 05-03-2025 - INFO - Etapa atualizado com sucesso
+[14:37:19] - 05-03-2025 - INFO - Cliente: RECAP_PNEUS_3214 | etapa: convenio
+[14:37:51] - 05-03-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente RECAP_PNEUS_3214
+[14:37:51] - 05-03-2025 - INFO - Indo para pix
+[14:37:52] - 05-03-2025 - INFO - Etapa atualizado com sucesso
+[14:37:52] - 05-03-2025 - INFO - Etapa atualizado com sucesso
+[14:37:52] - 05-03-2025 - INFO - Cliente: RECAP_PNEUS_3214 | etapa: pix
+[14:39:04] - 05-03-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_tv94rpe4_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_tv94rpe4', 'txt']
+[14:39:05] - 05-03-2025 - INFO - Total de CP salvo na planilha.
+[14:39:05] - 05-03-2025 - INFO - Total de CP pix 5.0
+[14:39:07] - 05-03-2025 - INFO - Comprovante 1º
+[14:39:34] - 05-03-2025 - INFO - posição Y: 491
+[14:39:34] - 05-03-2025 - INFO - pagina atual 1
+[14:39:36] - 05-03-2025 - INFO - Comprovante 2º
+[14:40:04] - 05-03-2025 - INFO - posição Y: 516
+[14:40:04] - 05-03-2025 - INFO - pagina atual 1
+[14:40:06] - 05-03-2025 - INFO - Comprovante 3º
+[14:40:33] - 05-03-2025 - INFO - posição Y: 541
+[14:40:33] - 05-03-2025 - INFO - pagina atual 1
+[14:40:35] - 05-03-2025 - INFO - Comprovante 4º
+[14:41:03] - 05-03-2025 - INFO - posição Y: 566
+[14:41:03] - 05-03-2025 - INFO - pagina atual 1
+[14:41:05] - 05-03-2025 - INFO - Comprovante 5º
+[14:41:32] - 05-03-2025 - INFO - posição Y: 591
+[14:41:32] - 05-03-2025 - INFO - pagina atual 1
+[14:41:32] - 05-03-2025 - INFO - Dados do processo salvos na planilha: Cliente=RECAP_PNEUS_3214
+[14:41:32] - 05-03-2025 - INFO - Dados enviados para planilha. - Cliente: RECAP_PNEUS_3214, Etapa: pdf
+[14:41:33] - 05-03-2025 - INFO - Etapa atualizado com sucesso
+[14:41:33] - 05-03-2025 - INFO - Processo finalizado para Cliente: RECAP_PNEUS_3214
+[14:41:41] - 05-03-2025 - INFO - Status atualizado com sucesso
+[14:41:41] - 05-03-2025 - INFO - Todos clientes processados - Etapa Renomear CP
+[14:41:41] - 05-03-2025 - INFO - Todos clientes marcados como concluidos
+[14:41:41] - 05-03-2025 - INFO - Nao existe informações na planilha para continuar
+[14:41:42] - 05-03-2025 - INFO - Etapa renomear TITULOS iniciada
+[14:41:42] - 05-03-2025 - INFO - Etapa renomear TITULOS finalizada
+[14:41:42] - 05-03-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[14:41:42] - 05-03-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 05.02.2025_CP.ITAU_R$ 14.459,00.pdf
+[14:41:42] - 05-03-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_05.03.2025.pdf
+[14:41:42] - 05-03-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_05.03.2025.pdf
+[14:41:42] - 05-03-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_05.03.2025.pdf
+[14:41:42] - 05-03-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix4.0_05.03.2025.pdf
+[14:41:42] - 05-03-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix5.0_05.03.2025.pdf
+[14:41:42] - 05-03-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[14:41:42] - 05-03-2025 - INFO - Etapa renomear PIX finalizada

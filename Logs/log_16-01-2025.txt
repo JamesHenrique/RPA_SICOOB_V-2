@@ -1,0 +1,222 @@
+[06:53:48] - 16-01-2025 - INFO - Login realizado com sucesso - 3258
+[06:53:48] - 16-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: titulos
+[06:54:08] - 16-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_5ipp9469_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_5ipp9469', 'txt']
+[06:54:09] - 16-01-2025 - INFO - Total de CP salvo na planilha.
+[06:54:10] - 16-01-2025 - INFO - Comprovante 1º
+[06:54:28] - 16-01-2025 - INFO - Comprovante 2º
+[06:54:44] - 16-01-2025 - INFO - Comprovante 3º
+[06:54:59] - 16-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[06:54:59] - 16-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: convenio
+[06:54:59] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[06:54:59] - 16-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: convenio
+[06:55:23] - 16-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente SALGADARIA_3258
+[06:55:23] - 16-01-2025 - INFO - Indo para pix
+[06:55:23] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[06:55:23] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[06:55:23] - 16-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: pix
+[06:55:37] - 16-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_4gsztnd0_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_4gsztnd0', 'txt']
+[06:55:38] - 16-01-2025 - INFO - Total de CP salvo na planilha.
+[06:55:40] - 16-01-2025 - INFO - Comprovante 1º
+[06:56:10] - 16-01-2025 - INFO - Comprovante 2º
+[06:56:40] - 16-01-2025 - INFO - Comprovante 3º
+[06:57:10] - 16-01-2025 - INFO - Comprovante 4º
+[06:57:40] - 16-01-2025 - INFO - Comprovante 5º
+[06:58:10] - 16-01-2025 - INFO - Comprovante 6º
+[06:58:40] - 16-01-2025 - INFO - Comprovante 7º
+[07:07:14] - 16-01-2025 - INFO - Login realizado com sucesso - 3258
+[07:07:14] - 16-01-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: pix
+[07:07:29] - 16-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_p19v11ax_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_p19v11ax', 'txt']
+[07:07:29] - 16-01-2025 - INFO - Total de CP salvo na planilha.
+[07:07:31] - 16-01-2025 - INFO - Comprovante 1º
+[07:08:01] - 16-01-2025 - INFO - Comprovante 2º
+[07:08:31] - 16-01-2025 - INFO - Comprovante 3º
+[07:09:00] - 16-01-2025 - INFO - Comprovante 4º
+[07:09:28] - 16-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[07:09:28] - 16-01-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: pdf
+[07:09:28] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:09:28] - 16-01-2025 - INFO - Processo finalizado para Cliente: SALGADARIA_3258
+[07:09:36] - 16-01-2025 - INFO - Status atualizado com sucesso
+[07:10:00] - 16-01-2025 - INFO - Login realizado com sucesso - 4001
+[07:10:00] - 16-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: titulos
+[07:10:20] - 16-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_w4skyc5w_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_w4skyc5w', 'txt']
+[07:10:20] - 16-01-2025 - INFO - Total de CP salvo na planilha.
+[07:10:21] - 16-01-2025 - INFO - Comprovante 1º
+[07:10:40] - 16-01-2025 - INFO - Comprovante 2º
+[07:10:55] - 16-01-2025 - INFO - Comprovante 3º
+[07:11:10] - 16-01-2025 - INFO - Comprovante 4º
+[07:11:25] - 16-01-2025 - INFO - Comprovante 5º
+[07:11:40] - 16-01-2025 - INFO - Comprovante 6º
+[07:11:55] - 16-01-2025 - INFO - Comprovante 7º
+[07:12:10] - 16-01-2025 - INFO - Comprovante 8º
+[07:12:26] - 16-01-2025 - INFO - Comprovante 9º
+[07:12:41] - 16-01-2025 - INFO - Comprovante 10º
+[07:12:55] - 16-01-2025 - INFO - Paginas restantes 1.4
+[07:12:57] - 16-01-2025 - INFO - teste aqui 2 
+[07:12:58] - 16-01-2025 - INFO - Comprovante 1º
+[07:13:14] - 16-01-2025 - INFO - teste aqui 2 
+[07:13:15] - 16-01-2025 - INFO - Comprovante 2º
+[07:13:32] - 16-01-2025 - INFO - teste aqui 2 
+[07:13:33] - 16-01-2025 - INFO - Comprovante 3º
+[07:13:49] - 16-01-2025 - INFO - teste aqui 2 
+[07:13:50] - 16-01-2025 - INFO - Comprovante 4º
+[07:14:04] - 16-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[07:14:04] - 16-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: convenio
+[07:14:04] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:14:04] - 16-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: convenio
+[07:14:28] - 16-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_4001
+[07:14:28] - 16-01-2025 - INFO - Indo para pix
+[07:14:28] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:14:28] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:14:28] - 16-01-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: pix
+[07:14:42] - 16-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_85lz8b18_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_85lz8b18', 'txt']
+[07:14:43] - 16-01-2025 - INFO - Total de CP salvo na planilha.
+[07:14:45] - 16-01-2025 - INFO - Comprovante 1º
+[07:15:14] - 16-01-2025 - INFO - Comprovante 2º
+[07:15:44] - 16-01-2025 - INFO - Comprovante 3º
+[07:16:13] - 16-01-2025 - INFO - Comprovante 4º
+[07:16:43] - 16-01-2025 - INFO - Comprovante 5º
+[07:17:12] - 16-01-2025 - INFO - Comprovante 6º
+[07:17:42] - 16-01-2025 - INFO - Comprovante 7º
+[07:18:11] - 16-01-2025 - INFO - Comprovante 8º
+[07:18:41] - 16-01-2025 - INFO - Comprovante 9º
+[07:19:10] - 16-01-2025 - INFO - Comprovante 10º
+[07:19:40] - 16-01-2025 - INFO - Comprovante 1º
+[07:20:09] - 16-01-2025 - INFO - Comprovante 2º
+[07:20:39] - 16-01-2025 - INFO - Comprovante 3º
+[07:21:09] - 16-01-2025 - INFO - Comprovante 4º
+[07:21:38] - 16-01-2025 - INFO - Comprovante 5º
+[07:22:08] - 16-01-2025 - INFO - Comprovante 6º
+[07:22:37] - 16-01-2025 - INFO - Comprovante 7º
+[07:23:05] - 16-01-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[07:23:05] - 16-01-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: pdf
+[07:23:05] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:23:05] - 16-01-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_4001
+[07:23:13] - 16-01-2025 - INFO - Status atualizado com sucesso
+[07:23:37] - 16-01-2025 - INFO - Login realizado com sucesso - 5004
+[07:23:37] - 16-01-2025 - INFO - Cliente: IMPETUS_LTDA_5004 | etapa: titulos
+[07:23:57] - 16-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_n2r5gxzi_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_n2r5gxzi', 'txt']
+[07:23:57] - 16-01-2025 - INFO - Total de CP salvo na planilha.
+[07:23:57] - 16-01-2025 - INFO - Nenhum cp encontrado para titulos - Cliente: IMPETUS_LTDA_5004
+[07:23:57] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:23:57] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:23:57] - 16-01-2025 - INFO - Cliente: IMPETUS_LTDA_5004 | etapa: convenio
+[07:24:21] - 16-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_5004
+[07:24:21] - 16-01-2025 - INFO - Indo para pix
+[07:24:21] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:24:21] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:24:21] - 16-01-2025 - INFO - Cliente: IMPETUS_LTDA_5004 | etapa: pix
+[07:24:35] - 16-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_1ehbi2fu_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_1ehbi2fu', 'txt']
+[07:24:35] - 16-01-2025 - INFO - Total de CP salvo na planilha.
+[07:24:36] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:24:36] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:24:36] - 16-01-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_5004
+[07:24:44] - 16-01-2025 - INFO - Status atualizado com sucesso
+[07:25:08] - 16-01-2025 - INFO - Login realizado com sucesso - 4097
+[07:25:08] - 16-01-2025 - INFO - Cliente: IMPETUS_LTDA_4097 | etapa: titulos
+[07:25:27] - 16-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_a6jllvc4_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_a6jllvc4', 'txt']
+[07:25:28] - 16-01-2025 - INFO - Total de CP salvo na planilha.
+[07:25:28] - 16-01-2025 - INFO - Nenhum cp encontrado para titulos - Cliente: IMPETUS_LTDA_4097
+[07:25:28] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:25:28] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:25:28] - 16-01-2025 - INFO - Cliente: IMPETUS_LTDA_4097 | etapa: convenio
+[07:25:51] - 16-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_4097
+[07:25:51] - 16-01-2025 - INFO - Indo para pix
+[07:25:52] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:25:52] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:25:52] - 16-01-2025 - INFO - Cliente: IMPETUS_LTDA_4097 | etapa: pix
+[07:26:06] - 16-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_mwmnb2q7_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_mwmnb2q7', 'txt']
+[07:26:06] - 16-01-2025 - INFO - Total de CP salvo na planilha.
+[07:26:06] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:26:07] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:26:07] - 16-01-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_4097
+[07:26:15] - 16-01-2025 - INFO - Status atualizado com sucesso
+[07:26:39] - 16-01-2025 - INFO - Login realizado com sucesso - 4364
+[07:26:39] - 16-01-2025 - INFO - Cliente: IMPETUS_LTDA_4364 | etapa: titulos
+[07:26:58] - 16-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_3ma37bpm_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_3ma37bpm', 'txt']
+[07:26:59] - 16-01-2025 - INFO - Total de CP salvo na planilha.
+[07:26:59] - 16-01-2025 - INFO - Nenhum cp encontrado para titulos - Cliente: IMPETUS_LTDA_4364
+[07:26:59] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:26:59] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:26:59] - 16-01-2025 - INFO - Cliente: IMPETUS_LTDA_4364 | etapa: convenio
+[07:27:22] - 16-01-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_4364
+[07:27:22] - 16-01-2025 - INFO - Indo para pix
+[07:27:23] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:27:23] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:27:23] - 16-01-2025 - INFO - Cliente: IMPETUS_LTDA_4364 | etapa: pix
+[07:27:37] - 16-01-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_woeam_n8_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_woeam_n8', 'txt']
+[07:27:37] - 16-01-2025 - INFO - Total de CP salvo na planilha.
+[07:27:37] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:27:37] - 16-01-2025 - INFO - Etapa atualizado com sucesso
+[07:27:37] - 16-01-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_4364
+[07:27:46] - 16-01-2025 - INFO - Status atualizado com sucesso
+[07:28:09] - 16-01-2025 - INFO - Login realizado com sucesso - 3258
+[07:28:09] - 16-01-2025 - INFO - Nenhum registro encontrado para o cliente e data especificados.
+[07:28:09] - 16-01-2025 - INFO - Erro iniciar cliente | 'str' object has no attribute 'iloc'
+[07:28:09] - 16-01-2025 - INFO - Todos clientes marcados como concluidos
+[07:28:09] - 16-01-2025 - INFO - Nao existe informações na planilha para continuar
+[07:28:10] - 16-01-2025 - INFO - Etapa renomear TITULOS iniciada
+[07:28:10] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos1.0_15.01.2025.pdf para 15.01.2025_CP_INFOVARZ LTDA_R$100,00.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos10.0_15.01.2025.pdf para 15.01.2025_CP_BELL MAQUINAS E EQUI_R$8.288,75.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos11.0_15.01.2025.pdf para 15.01.2025_CP_BELL MAQUINAS E EQUI_R$8.288,75_V2.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos12.0_15.01.2025.pdf para 15.01.2025_CP_BELL MAQUINAS E EQUI_R$16.575,00.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos13.0_15.01.2025.pdf para 15.01.2025_CP_BELL MAQUINAS E EQUI_R$1.031,50.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos14.0_15.01.2025.pdf para 15.01.2025_CP_INTERNET PINHEIRENSE_R$100,00.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos2.0_15.01.2025.pdf para 15.01.2025_CP_VARGINHA ENGENHARIA _R$1.600,00.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos3.0_15.01.2025.pdf para 15.01.2025_CP_44.667.303 ANGELA DO_R$16.100,00.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos4.0_15.01.2025.pdf para 15.01.2025_CP_OLIVEIRA amp; MARTIN_R$320,00.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos5.0_15.01.2025.pdf para 15.01.2025_CP_OLIVEIRA amp; MARTIN_R$3.500,00.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos6.0_15.01.2025.pdf para 15.01.2025_CP_NFEMAIL TECNOLOGIA L_R$61,90.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos7.0_15.01.2025.pdf para 15.01.2025_CP_FORMENTO SECURITIZAD_R$11.200,00.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos8.0_15.01.2025.pdf para 15.01.2025_CP_FORMENTO SECURITIZAD_R$11.200,00_V2.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos9.0_15.01.2025.pdf para 15.01.2025_CP_CONDOMINIO SOLAR DE _R$777,00.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos1.0_15.01.2025.pdf para 15.01.2025_CP_CARTOES CAIXA VISA P_R$371,52.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos2.0_15.01.2025.pdf para 15.01.2025_CP_RB CARNES C ALIMENTO_R$925,40.pdf
+[07:28:11] - 16-01-2025 - INFO - TITULOS - Renomeado: titulos3.0_15.01.2025.pdf para 15.01.2025_CP_MAXIPAS_R$122,00.pdf
+[07:28:11] - 16-01-2025 - INFO - Etapa renomear TITULOS finalizada
+[07:28:11] - 16-01-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_44.667.303 ANGELA DO_R$16.100,00.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_BELL MAQUINAS E EQUI_R$1.031,50.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_BELL MAQUINAS E EQUI_R$16.575,00.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_BELL MAQUINAS E EQUI_R$8.288,75.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_BELL MAQUINAS E EQUI_R$8.288,75_V2.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_CONDOMINIO SOLAR DE _R$777,00.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_FORMENTO SECURITIZAD_R$11.200,00.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_FORMENTO SECURITIZAD_R$11.200,00_V2.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_INFOVARZ LTDA_R$100,00.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_INTERNET PINHEIRENSE_R$100,00.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_NFEMAIL TECNOLOGIA L_R$61,90.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_OLIVEIRA amp; MARTIN_R$3.500,00.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_OLIVEIRA amp; MARTIN_R$320,00.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_VARGINHA ENGENHARIA _R$1.600,00.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix10.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix11.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix12.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix13.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix14.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix15.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix16.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix17.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix4.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix5.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix6.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix7.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix8.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix9.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_CARTOES CAIXA VISA P_R$371,52.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_MAXIPAS_R$122,00.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 15.01.2025_CP_RB CARNES C ALIMENTO_R$925,40.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix33.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix34.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix35.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix36.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix37.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix38.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix4.0_15.01.2025.pdf
+[07:28:11] - 16-01-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[07:28:12] - 16-01-2025 - INFO - Etapa renomear PIX finalizada

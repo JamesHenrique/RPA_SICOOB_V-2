@@ -1,0 +1,617 @@
+[08:07:29] - 21-02-2025 - INFO - Login realizado com sucesso - 3258
+[08:07:29] - 21-02-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: titulos
+[08:07:54] - 21-02-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_94q1gvz2_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_94q1gvz2', 'txt']
+[08:07:55] - 21-02-2025 - INFO - Total de CP salvo na planilha.
+[08:07:56] - 21-02-2025 - INFO - Comprovante 1º
+[08:08:14] - 21-02-2025 - INFO - Comprovante 2º
+[08:08:30] - 21-02-2025 - INFO - Comprovante 3º
+[08:08:44] - 21-02-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[08:08:44] - 21-02-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: convenio
+[08:08:45] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:08:45] - 21-02-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: convenio
+[08:09:16] - 21-02-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess__uj6uc27_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess__uj6uc27', 'txt']
+[08:09:17] - 21-02-2025 - INFO - Total de CP salvo na planilha.
+[08:09:19] - 21-02-2025 - INFO - Comprovante 1º
+[08:09:37] - 21-02-2025 - INFO - posição Y: 582
+[08:09:37] - 21-02-2025 - INFO - pagina atual 1
+[08:09:40] - 21-02-2025 - INFO - Comprovante 2º
+[08:09:58] - 21-02-2025 - INFO - posição Y: 607
+[08:09:58] - 21-02-2025 - INFO - pagina atual 1
+[08:10:00] - 21-02-2025 - INFO - Comprovante 3º
+[08:10:18] - 21-02-2025 - INFO - posição Y: 632
+[08:10:18] - 21-02-2025 - INFO - pagina atual 1
+[08:10:18] - 21-02-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[08:10:18] - 21-02-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: pix
+[08:10:19] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:10:19] - 21-02-2025 - INFO - Cliente: SALGADARIA_3258 | etapa: pix
+[08:11:31] - 21-02-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_4_3razov_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_4_3razov', 'txt']
+[08:11:31] - 21-02-2025 - INFO - Total de CP salvo na planilha.
+[08:11:33] - 21-02-2025 - INFO - Comprovante 1º
+[08:12:04] - 21-02-2025 - INFO - posição Y: 491
+[08:12:04] - 21-02-2025 - INFO - pagina atual 1
+[08:12:06] - 21-02-2025 - INFO - Comprovante 2º
+[08:12:34] - 21-02-2025 - INFO - posição Y: 516
+[08:12:34] - 21-02-2025 - INFO - pagina atual 1
+[08:12:36] - 21-02-2025 - INFO - Comprovante 3º
+[08:13:03] - 21-02-2025 - INFO - posição Y: 541
+[08:13:03] - 21-02-2025 - INFO - pagina atual 1
+[08:13:04] - 21-02-2025 - INFO - Dados do processo salvos na planilha: Cliente=SALGADARIA_3258
+[08:13:04] - 21-02-2025 - INFO - Dados enviados para planilha. - Cliente: SALGADARIA_3258, Etapa: pdf
+[08:13:04] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:13:04] - 21-02-2025 - INFO - Processo finalizado para Cliente: SALGADARIA_3258
+[08:13:13] - 21-02-2025 - INFO - Status atualizado com sucesso
+[08:13:36] - 21-02-2025 - INFO - Login realizado com sucesso - 4001
+[08:13:36] - 21-02-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: titulos
+[08:14:02] - 21-02-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_8kkrzn51_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_8kkrzn51', 'txt']
+[08:14:02] - 21-02-2025 - INFO - Total de CP salvo na planilha.
+[08:14:03] - 21-02-2025 - INFO - Comprovante 1º
+[08:14:18] - 21-02-2025 - INFO - Comprovante 2º
+[08:14:34] - 21-02-2025 - INFO - Comprovante 3º
+[08:14:49] - 21-02-2025 - INFO - Comprovante 4º
+[08:15:04] - 21-02-2025 - INFO - Comprovante 5º
+[08:15:19] - 21-02-2025 - INFO - Comprovante 6º
+[08:15:34] - 21-02-2025 - INFO - Comprovante 7º
+[08:15:52] - 21-02-2025 - INFO - Comprovante 8º
+[08:16:07] - 21-02-2025 - INFO - Comprovante 9º
+[08:16:22] - 21-02-2025 - INFO - Comprovante 10º
+[08:16:37] - 21-02-2025 - INFO - Paginas restantes 1.9
+[08:16:39] - 21-02-2025 - INFO - teste aqui 2 
+[08:16:40] - 21-02-2025 - INFO - Comprovante 1º
+[08:16:56] - 21-02-2025 - INFO - teste aqui 2 
+[08:16:57] - 21-02-2025 - INFO - Comprovante 2º
+[08:17:13] - 21-02-2025 - INFO - teste aqui 2 
+[08:17:14] - 21-02-2025 - INFO - Comprovante 3º
+[08:17:34] - 21-02-2025 - INFO - teste aqui 2 
+[08:17:35] - 21-02-2025 - INFO - Comprovante 4º
+[08:17:51] - 21-02-2025 - INFO - teste aqui 2 
+[08:17:52] - 21-02-2025 - INFO - Comprovante 5º
+[08:18:08] - 21-02-2025 - INFO - teste aqui 2 
+[08:18:09] - 21-02-2025 - INFO - Comprovante 6º
+[08:18:25] - 21-02-2025 - INFO - teste aqui 2 
+[08:18:26] - 21-02-2025 - INFO - Comprovante 7º
+[08:18:42] - 21-02-2025 - INFO - teste aqui 2 
+[08:18:43] - 21-02-2025 - INFO - Comprovante 8º
+[08:18:59] - 21-02-2025 - INFO - teste aqui 2 
+[08:19:00] - 21-02-2025 - INFO - Comprovante 9º
+[08:19:15] - 21-02-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[08:19:15] - 21-02-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: convenio
+[08:19:15] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:19:15] - 21-02-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: convenio
+[08:19:48] - 21-02-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_4001
+[08:19:48] - 21-02-2025 - INFO - Indo para pix
+[08:19:48] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:19:48] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:19:48] - 21-02-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: pix
+[08:21:00] - 21-02-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_y9yhi6e3_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_y9yhi6e3', 'txt']
+[08:21:01] - 21-02-2025 - INFO - Total de CP salvo na planilha.
+[08:21:03] - 21-02-2025 - INFO - Comprovante 1º
+[08:21:30] - 21-02-2025 - INFO - posição Y: 491
+[08:21:30] - 21-02-2025 - INFO - pagina atual 1
+[08:21:32] - 21-02-2025 - INFO - Comprovante 2º
+[08:22:00] - 21-02-2025 - INFO - posição Y: 516
+[08:22:00] - 21-02-2025 - INFO - pagina atual 1
+[08:22:02] - 21-02-2025 - INFO - Comprovante 3º
+[08:22:29] - 21-02-2025 - INFO - posição Y: 541
+[08:22:29] - 21-02-2025 - INFO - pagina atual 1
+[08:22:31] - 21-02-2025 - INFO - Comprovante 4º
+[08:22:59] - 21-02-2025 - INFO - posição Y: 566
+[08:22:59] - 21-02-2025 - INFO - pagina atual 1
+[08:23:01] - 21-02-2025 - INFO - Comprovante 5º
+[08:23:28] - 21-02-2025 - INFO - posição Y: 591
+[08:23:28] - 21-02-2025 - INFO - pagina atual 1
+[08:23:30] - 21-02-2025 - INFO - Comprovante 6º
+[08:23:58] - 21-02-2025 - INFO - posição Y: 616
+[08:23:58] - 21-02-2025 - INFO - pagina atual 1
+[08:24:00] - 21-02-2025 - INFO - Comprovante 7º
+[08:24:27] - 21-02-2025 - INFO - posição Y: 641
+[08:24:27] - 21-02-2025 - INFO - pagina atual 1
+[08:24:29] - 21-02-2025 - INFO - Comprovante 8º
+[08:24:56] - 21-02-2025 - INFO - posição Y: 666
+[08:24:56] - 21-02-2025 - INFO - pagina atual 1
+[08:24:58] - 21-02-2025 - INFO - Comprovante 9º
+[08:25:26] - 21-02-2025 - INFO - posição Y: 691
+[08:25:26] - 21-02-2025 - INFO - pagina atual 1
+[08:25:28] - 21-02-2025 - INFO - Comprovante 10º
+[08:25:55] - 21-02-2025 - INFO - posição Y: 716
+[08:25:55] - 21-02-2025 - INFO - pagina atual 1
+[08:25:57] - 21-02-2025 - INFO - Comprovante 1º
+[08:26:25] - 21-02-2025 - INFO - posição Y: 491
+[08:26:25] - 21-02-2025 - INFO - pagina atual 2
+[08:26:27] - 21-02-2025 - INFO - Comprovante 2º
+[08:26:54] - 21-02-2025 - INFO - posição Y: 516
+[08:26:54] - 21-02-2025 - INFO - pagina atual 2
+[08:26:56] - 21-02-2025 - INFO - Comprovante 3º
+[08:27:23] - 21-02-2025 - INFO - posição Y: 541
+[08:27:23] - 21-02-2025 - INFO - pagina atual 2
+[08:27:25] - 21-02-2025 - INFO - Comprovante 4º
+[08:27:53] - 21-02-2025 - INFO - posição Y: 566
+[08:27:53] - 21-02-2025 - INFO - pagina atual 2
+[08:27:55] - 21-02-2025 - INFO - Comprovante 5º
+[08:28:22] - 21-02-2025 - INFO - posição Y: 591
+[08:28:22] - 21-02-2025 - INFO - pagina atual 2
+[08:28:24] - 21-02-2025 - INFO - Comprovante 6º
+[08:28:52] - 21-02-2025 - INFO - posição Y: 616
+[08:28:52] - 21-02-2025 - INFO - pagina atual 2
+[08:28:54] - 21-02-2025 - INFO - Comprovante 7º
+[08:29:21] - 21-02-2025 - INFO - posição Y: 641
+[08:29:21] - 21-02-2025 - INFO - pagina atual 2
+[08:29:23] - 21-02-2025 - INFO - Comprovante 8º
+[08:29:51] - 21-02-2025 - INFO - posição Y: 666
+[08:29:51] - 21-02-2025 - INFO - pagina atual 2
+[08:30:46] - 21-02-2025 - INFO - Comprovante 9º
+[08:31:13] - 21-02-2025 - INFO - posição Y: 691
+[08:31:13] - 21-02-2025 - INFO - pagina atual 2
+[08:31:15] - 21-02-2025 - INFO - Comprovante 10º
+[08:31:42] - 21-02-2025 - INFO - posição Y: 716
+[08:31:42] - 21-02-2025 - INFO - pagina atual 2
+[08:31:44] - 21-02-2025 - INFO - Comprovante 1º
+[08:32:12] - 21-02-2025 - INFO - posição Y: 491
+[08:32:12] - 21-02-2025 - INFO - pagina atual 3
+[08:32:14] - 21-02-2025 - INFO - Comprovante 2º
+[08:32:41] - 21-02-2025 - INFO - posição Y: 516
+[08:32:41] - 21-02-2025 - INFO - pagina atual 3
+[08:32:43] - 21-02-2025 - INFO - Comprovante 3º
+[08:33:11] - 21-02-2025 - INFO - posição Y: 541
+[08:33:11] - 21-02-2025 - INFO - pagina atual 3
+[08:33:11] - 21-02-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[08:33:11] - 21-02-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: pdf
+[08:33:11] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:33:11] - 21-02-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_4001
+[08:33:20] - 21-02-2025 - INFO - Status atualizado com sucesso
+[08:33:43] - 21-02-2025 - INFO - Login realizado com sucesso - 5004
+[08:33:43] - 21-02-2025 - INFO - Cliente: IMPETUS_LTDA_5004 | etapa: titulos
+[08:34:09] - 21-02-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_4vh6lxu8_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_4vh6lxu8', 'txt']
+[08:34:09] - 21-02-2025 - INFO - Total de CP salvo na planilha.
+[08:34:10] - 21-02-2025 - INFO - Nenhum cp encontrado para titulos - Cliente: IMPETUS_LTDA_5004
+[08:34:10] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:34:10] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:34:10] - 21-02-2025 - INFO - Cliente: IMPETUS_LTDA_5004 | etapa: convenio
+[08:34:43] - 21-02-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_5004
+[08:34:43] - 21-02-2025 - INFO - Indo para pix
+[08:34:43] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:34:43] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:34:43] - 21-02-2025 - INFO - Cliente: IMPETUS_LTDA_5004 | etapa: pix
+[08:36:42] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:36:42] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:36:42] - 21-02-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_5004
+[08:36:51] - 21-02-2025 - INFO - Status atualizado com sucesso
+[08:37:14] - 21-02-2025 - INFO - Login realizado com sucesso - 4097
+[08:37:14] - 21-02-2025 - INFO - Cliente: IMPETUS_LTDA_4097 | etapa: titulos
+[08:37:43] - 21-02-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_9px_jt6h_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_9px_jt6h', 'txt']
+[08:37:43] - 21-02-2025 - INFO - Total de CP salvo na planilha.
+[08:37:43] - 21-02-2025 - INFO - Nenhum cp encontrado para titulos - Cliente: IMPETUS_LTDA_4097
+[08:37:44] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:37:44] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:37:44] - 21-02-2025 - INFO - Cliente: IMPETUS_LTDA_4097 | etapa: convenio
+[08:38:16] - 21-02-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_4097
+[08:38:16] - 21-02-2025 - INFO - Indo para pix
+[08:38:17] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:38:17] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:38:17] - 21-02-2025 - INFO - Cliente: IMPETUS_LTDA_4097 | etapa: pix
+[08:40:16] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:40:16] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:40:16] - 21-02-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_4097
+[08:40:25] - 21-02-2025 - INFO - Status atualizado com sucesso
+[08:40:48] - 21-02-2025 - INFO - Login realizado com sucesso - 4364
+[08:40:48] - 21-02-2025 - INFO - Cliente: IMPETUS_LTDA_4364 | etapa: titulos
+[08:41:17] - 21-02-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_nkanu5t6_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_nkanu5t6', 'txt']
+[08:41:17] - 21-02-2025 - INFO - Total de CP salvo na planilha.
+[08:41:17] - 21-02-2025 - INFO - Nenhum cp encontrado para titulos - Cliente: IMPETUS_LTDA_4364
+[08:41:17] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:41:18] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:41:18] - 21-02-2025 - INFO - Cliente: IMPETUS_LTDA_4364 | etapa: convenio
+[08:41:50] - 21-02-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_4364
+[08:41:50] - 21-02-2025 - INFO - Indo para pix
+[08:41:50] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:41:51] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:41:51] - 21-02-2025 - INFO - Cliente: IMPETUS_LTDA_4364 | etapa: pix
+[08:43:50] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:43:50] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[08:43:50] - 21-02-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_4364
+[08:43:59] - 21-02-2025 - INFO - Status atualizado com sucesso
+[08:43:59] - 21-02-2025 - INFO - Todos clientes processados - Etapa Renomear CP
+[08:43:59] - 21-02-2025 - INFO - Todos clientes marcados como concluidos
+[08:43:59] - 21-02-2025 - INFO - Nao existe informações na planilha para continuar
+[08:44:00] - 21-02-2025 - INFO - Etapa renomear TITULOS iniciada
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos1.0_20.02.2025.pdf para 20.02.2025_CP_BMW FINANCEIRA_R$9.187,04.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos10.0_20.02.2025.pdf para 20.02.2025_CP_MINERACAO SANTO ANTO_R$3.881,67.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos11.0_20.02.2025.pdf para 20.02.2025_CP_MOVIDA PARTICIPACOES_R$3.768,26.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos12.0_20.02.2025.pdf para 20.02.2025_CP_MOVIDA PARTICIPACOES_R$3.725,95.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos13.0_20.02.2025.pdf para 20.02.2025_CP_BELL MAQUINAS E EQUI_R$3.318,00.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos14.0_20.02.2025.pdf para 20.02.2025_CP_BELL MAQUINAS E EQUI_R$2.565,50.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos15.0_20.02.2025.pdf para 20.02.2025_CP_AUTO POSTO SANTA FE _R$1.154,57.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos16.0_20.02.2025.pdf para 20.02.2025_CP_UNO CONTABILIDADE E _R$600,00.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos17.0_20.02.2025.pdf para 20.02.2025_CP_MOVIDA PARTICIPACOES_R$130,16.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos18.0_20.02.2025.pdf para 20.02.2025_CP_MOVIDA PARTICIPACOES_R$130,16_V2.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos19.0_20.02.2025.pdf para 20.02.2025_CP_INFOVARZ - CONECTV_R$79,90.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos2.0_20.02.2025.pdf para 20.02.2025_CP_CONSELHO REGIONAL DE_R$271,47.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos3.0_20.02.2025.pdf para 20.02.2025_CP_CONSELHO REGIONAL DE_R$271,47_V2.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Erro ao processar titulos4.0_20.02.2025.pdf: [WinError 183] Não é possível criar um arquivo já existente: 'C:\\Users\\axlda\\iFinance\\iFinance - Dados\\IFINANCE RIBEIRÃO PRETO\\01. CLIENTES\\004. IMPETUS ENERGY E BUSINESS LTDA\\1. ARQUIVADOS\\02. COMPROVANTES DE PAGAMENTO\\2025\\02.2025\\SICOOB_4001_123787-0\\20.02.2025\\titulos4.0_20.02.2025.pdf' -> 'C:\\Users\\axlda\\iFinance\\iFinance - Dados\\IFINANCE RIBEIRÃO PRETO\\01. CLIENTES\\004. IMPETUS ENERGY E BUSINESS LTDA\\1. ARQUIVADOS\\02. COMPROVANTES DE PAGAMENTO\\2025\\02.2025\\SICOOB_4001_123787-0\\20.02.2025\\20.02.2025_CP_CONSELHO REGIONAL DE_R$271,47_V2.pdf'
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos5.0_20.02.2025.pdf para 20.02.2025_CP_COMP ELE EST DA BA C_R$633,26.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos6.0_20.02.2025.pdf para 20.02.2025_CP_PR LOCACOES DE EQUIP_R$24.298,25.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos7.0_20.02.2025.pdf para 20.02.2025_CP_PLASTIBRAS INDUSTRIA_R$14.264,33.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos8.0_20.02.2025.pdf para 20.02.2025_CP_FORMENTO SECURITIZAD_R$13.500,00.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos9.0_20.02.2025.pdf para 20.02.2025_CP_BELL MAQUINAS E EQUI_R$5.590,50.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos1.0_20.02.2025.pdf para 20.02.2025_CP_CORDIAL DISTRIBUIDOR_R$728,22.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos2.0_20.02.2025.pdf para 20.02.2025_CP_COPAL ALIMENTOS LTDA_R$326,26.pdf
+[08:44:00] - 21-02-2025 - INFO - TITULOS - Renomeado: titulos3.0_20.02.2025.pdf para 20.02.2025_CP_SEGALA S ALIMENTOS L_R$420,92.pdf
+[08:44:00] - 21-02-2025 - INFO - Etapa renomear TITULOS finalizada
+[08:44:00] - 21-02-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_AUTO POSTO SANTA FE _R$1.154,57.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_BELL MAQUINAS E EQUI_R$2.565,50.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_BELL MAQUINAS E EQUI_R$3.318,00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_BELL MAQUINAS E EQUI_R$5.590,50.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_BMW FINANCEIRA_R$9.187,04.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_COMP ELE EST DA BA C_R$633,26.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_CONSELHO REGIONAL DE_R$271,47.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_CONSELHO REGIONAL DE_R$271,47_V2.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_FORMENTO SECURITIZAD_R$13.500,00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_INFOVARZ - CONECTV_R$79,90.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MINERACAO SANTO ANTO_R$3.881,67.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MOVIDA PARTICIPACOES_R$130,16.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MOVIDA PARTICIPACOES_R$130,16_V2.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MOVIDA PARTICIPACOES_R$3.725,95.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MOVIDA PARTICIPACOES_R$3.768,26.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_PLASTIBRAS INDUSTRIA_R$14.264,33.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_PR LOCACOES DE EQUIP_R$24.298,25.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_UNO CONTABILIDADE E _R$600,00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix10.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix11.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix12.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix13.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix14.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix15.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix16.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix17.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix18.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix19.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix20.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix21.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix22.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix23.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix4.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix5.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix6.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix7.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix8.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix9.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos4.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_COPAL ALIMENTOS LTDA_R$326,26.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_CORDIAL DISTRIBUIDOR_R$728,22.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_SEGALA S ALIMENTOS L_R$420,92.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo renomeado para: 20.02.2025_CP_COMPROVANTE_DE_PAGAM_R$_499.06.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo renomeado para: 20.02.2025_CP_COMPROVANTE_DE_PAGAM_R$_9776.60.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo renomeado para: 20.02.2025_CP_COMPROVANTE_DE_PAGAM_R$_166.98.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_20.02.2025.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_AUTO POSTO COMEFOGO_R$1238.94.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_AUTO POSTO COMEFOGO_R$187.75.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_JGM SECURITIZADORA S_R$1.160,00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_LUIZ DONIZETE DE SOU_R$1272.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MARIA EDUARDA FERRAR_R$847.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MARVIN BORRACHAS LTD_R$7.654,99.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_RP REFORMADORA DE PN_R$3.750,00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_SUPERMERCADO SB BABA_R$3.246,28.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_UNIQUE RUBBER TECHNO_R$5519.50.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_VALDEMIR DAL BEN_R$1440.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Alessandra de Faria_R$2000.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Alessandra de Faria_R$680.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Davison de Jesus Mau_R$100.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Davison de Jesus Mau_R$8000.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Eliel Luis Correa_R$1505.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_ESTER VITAL DE LIMA_R$675.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_EUGENIO GALANTI_R$640.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_FUNDO DE INVEST EM D_R$2.743,63.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_G. D. A. COMERCIO DE_R$15000.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Igor Figueira de Alb_R$1153.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_IPVA PLACA GAF1A96_R$ 896,21.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_ISRAEL RODRIGUES DE_R$1440.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Jairo Da Silva Anice_R$913.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_JOAO DEFIUME_R$640.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_JOSE TADEU MOTA_R$425.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_JOSE TADEU MOTA_R$965.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_João Paulo Mazali De_R$980.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_LUAM JUNIO DAMIAO DE_R$1505.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Luana Silva Souza_R$847.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Lucas de Faria Mauri_R$1340.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_LUCIDIO LIMA DE OLIV_R$1311.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_LUIS APARECIDO GUIDE_R$197.19.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Luiz Fernando Ancelm_R$913.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MARCIO LARANGEIRA LO_R$1554.83.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MARCIO LARANGEIRA LO_R$50.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MARCIO LARANGEIRA LO_R$50.00_V2.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MARCIO LARANGEIRA LO_R$932.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Márcio Luiz da Cruz_R$100.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Paloma Cristina de O_R$847.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_PAULO ROBERTO CORREA_R$1505.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_RANIEL RENAN SALES_R$913.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_RAPHAEL EVANGELISTA_R$1470.00.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_RONILSON ALMEIDA DE_R$274.82.pdf
+[08:44:00] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_VALDIR ALVES PINTO_R$847.00.pdf
+[08:44:00] - 21-02-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[08:44:01] - 21-02-2025 - INFO - Etapa renomear PIX finalizada
+[09:19:28] - 21-02-2025 - INFO - Login realizado com sucesso - 4001
+[09:19:28] - 21-02-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: titulos
+[09:19:54] - 21-02-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_pz4yr5xd_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_pz4yr5xd', 'txt']
+[09:19:55] - 21-02-2025 - INFO - Total de CP salvo na planilha.
+[09:19:56] - 21-02-2025 - INFO - Comprovante 1º
+[09:20:14] - 21-02-2025 - INFO - Comprovante 2º
+[09:20:29] - 21-02-2025 - INFO - Comprovante 3º
+[09:20:45] - 21-02-2025 - INFO - Comprovante 4º
+[09:21:00] - 21-02-2025 - INFO - Comprovante 5º
+[09:21:15] - 21-02-2025 - INFO - Comprovante 6º
+[09:21:30] - 21-02-2025 - INFO - Comprovante 7º
+[09:21:45] - 21-02-2025 - INFO - Comprovante 8º
+[09:22:01] - 21-02-2025 - INFO - Comprovante 9º
+[09:22:16] - 21-02-2025 - INFO - Comprovante 10º
+[09:22:30] - 21-02-2025 - INFO - Paginas restantes 1.9
+[09:22:32] - 21-02-2025 - INFO - teste aqui 2 
+[09:22:33] - 21-02-2025 - INFO - Comprovante 1º
+[09:22:49] - 21-02-2025 - INFO - teste aqui 2 
+[09:22:50] - 21-02-2025 - INFO - Comprovante 2º
+[09:23:07] - 21-02-2025 - INFO - teste aqui 2 
+[09:23:08] - 21-02-2025 - INFO - Comprovante 3º
+[09:23:27] - 21-02-2025 - INFO - teste aqui 2 
+[09:23:28] - 21-02-2025 - INFO - Comprovante 4º
+[09:23:44] - 21-02-2025 - INFO - teste aqui 2 
+[09:23:45] - 21-02-2025 - INFO - Comprovante 5º
+[09:24:02] - 21-02-2025 - INFO - teste aqui 2 
+[09:24:03] - 21-02-2025 - INFO - Comprovante 6º
+[09:24:19] - 21-02-2025 - INFO - teste aqui 2 
+[09:24:20] - 21-02-2025 - INFO - Comprovante 7º
+[09:24:36] - 21-02-2025 - INFO - teste aqui 2 
+[09:24:37] - 21-02-2025 - INFO - Comprovante 8º
+[09:25:03] - 21-02-2025 - INFO - teste aqui 2 
+[09:25:04] - 21-02-2025 - INFO - Comprovante 9º
+[09:25:18] - 21-02-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[09:25:18] - 21-02-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: convenio
+[09:25:18] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[09:25:18] - 21-02-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: convenio
+[09:25:51] - 21-02-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_4001
+[09:25:51] - 21-02-2025 - INFO - Indo para pix
+[09:25:51] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[09:25:51] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[09:25:52] - 21-02-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: pix
+[09:27:04] - 21-02-2025 - DEBUG - ['C:\\Users\\axlda\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_ukzlf96c_input.PNG', 'C:\\Users\\axlda\\AppData\\Local\\Temp\\tess_ukzlf96c', 'txt']
+[09:27:04] - 21-02-2025 - INFO - Total de CP salvo na planilha.
+[09:27:06] - 21-02-2025 - INFO - Comprovante 1º
+[09:27:34] - 21-02-2025 - INFO - posição Y: 491
+[09:27:34] - 21-02-2025 - INFO - pagina atual 1
+[09:27:36] - 21-02-2025 - INFO - Comprovante 2º
+[09:28:16] - 21-02-2025 - INFO - posição Y: 516
+[09:28:16] - 21-02-2025 - INFO - pagina atual 1
+[09:28:18] - 21-02-2025 - INFO - Comprovante 3º
+[09:28:46] - 21-02-2025 - INFO - posição Y: 541
+[09:28:46] - 21-02-2025 - INFO - pagina atual 1
+[09:28:48] - 21-02-2025 - INFO - Comprovante 4º
+[09:29:21] - 21-02-2025 - INFO - posição Y: 566
+[09:29:21] - 21-02-2025 - INFO - pagina atual 1
+[09:29:23] - 21-02-2025 - INFO - Comprovante 5º
+[09:29:50] - 21-02-2025 - INFO - posição Y: 591
+[09:29:50] - 21-02-2025 - INFO - pagina atual 1
+[09:29:52] - 21-02-2025 - INFO - Comprovante 6º
+[09:30:20] - 21-02-2025 - INFO - posição Y: 616
+[09:30:20] - 21-02-2025 - INFO - pagina atual 1
+[09:30:22] - 21-02-2025 - INFO - Comprovante 7º
+[09:30:49] - 21-02-2025 - INFO - posição Y: 641
+[09:30:49] - 21-02-2025 - INFO - pagina atual 1
+[09:30:51] - 21-02-2025 - INFO - Comprovante 8º
+[09:31:18] - 21-02-2025 - INFO - posição Y: 666
+[09:31:18] - 21-02-2025 - INFO - pagina atual 1
+[09:31:20] - 21-02-2025 - INFO - Comprovante 9º
+[09:31:48] - 21-02-2025 - INFO - posição Y: 691
+[09:31:48] - 21-02-2025 - INFO - pagina atual 1
+[09:31:50] - 21-02-2025 - INFO - Comprovante 10º
+[09:32:23] - 21-02-2025 - INFO - posição Y: 716
+[09:32:23] - 21-02-2025 - INFO - pagina atual 1
+[09:32:25] - 21-02-2025 - INFO - Comprovante 1º
+[09:32:52] - 21-02-2025 - INFO - posição Y: 491
+[09:32:52] - 21-02-2025 - INFO - pagina atual 2
+[09:32:54] - 21-02-2025 - INFO - Comprovante 2º
+[09:33:22] - 21-02-2025 - INFO - posição Y: 516
+[09:33:22] - 21-02-2025 - INFO - pagina atual 2
+[09:33:24] - 21-02-2025 - INFO - Comprovante 3º
+[09:33:51] - 21-02-2025 - INFO - posição Y: 541
+[09:33:51] - 21-02-2025 - INFO - pagina atual 2
+[09:33:53] - 21-02-2025 - INFO - Comprovante 4º
+[09:34:20] - 21-02-2025 - INFO - posição Y: 566
+[09:34:20] - 21-02-2025 - INFO - pagina atual 2
+[09:34:22] - 21-02-2025 - INFO - Comprovante 5º
+[09:34:50] - 21-02-2025 - INFO - posição Y: 591
+[09:34:50] - 21-02-2025 - INFO - pagina atual 2
+[09:34:52] - 21-02-2025 - INFO - Comprovante 6º
+[09:35:19] - 21-02-2025 - INFO - posição Y: 616
+[09:35:19] - 21-02-2025 - INFO - pagina atual 2
+[09:36:40] - 21-02-2025 - INFO - Comprovante 7º
+[09:37:08] - 21-02-2025 - INFO - posição Y: 641
+[09:37:08] - 21-02-2025 - INFO - pagina atual 2
+[09:37:10] - 21-02-2025 - INFO - Comprovante 8º
+[09:37:37] - 21-02-2025 - INFO - posição Y: 666
+[09:37:37] - 21-02-2025 - INFO - pagina atual 2
+[09:37:39] - 21-02-2025 - INFO - Comprovante 9º
+[09:38:07] - 21-02-2025 - INFO - posição Y: 691
+[09:38:07] - 21-02-2025 - INFO - pagina atual 2
+[09:38:09] - 21-02-2025 - INFO - Comprovante 10º
+[09:38:36] - 21-02-2025 - INFO - posição Y: 716
+[09:38:36] - 21-02-2025 - INFO - pagina atual 2
+[09:38:38] - 21-02-2025 - INFO - Comprovante 1º
+[09:39:06] - 21-02-2025 - INFO - posição Y: 491
+[09:39:06] - 21-02-2025 - INFO - pagina atual 3
+[09:39:08] - 21-02-2025 - INFO - Comprovante 2º
+[09:39:35] - 21-02-2025 - INFO - posição Y: 516
+[09:39:35] - 21-02-2025 - INFO - pagina atual 3
+[09:39:37] - 21-02-2025 - INFO - Comprovante 3º
+[09:40:05] - 21-02-2025 - INFO - posição Y: 541
+[09:40:05] - 21-02-2025 - INFO - pagina atual 3
+[09:40:05] - 21-02-2025 - INFO - Dados do processo salvos na planilha: Cliente=IMPETUS_LTDA_4001
+[09:40:05] - 21-02-2025 - INFO - Dados enviados para planilha. - Cliente: IMPETUS_LTDA_4001, Etapa: pdf
+[09:40:05] - 21-02-2025 - INFO - Etapa atualizado com sucesso
+[09:40:05] - 21-02-2025 - INFO - Processo finalizado para Cliente: IMPETUS_LTDA_4001
+[09:40:14] - 21-02-2025 - INFO - Status atualizado com sucesso
+[09:40:14] - 21-02-2025 - INFO - Todos clientes processados - Etapa Renomear CP
+[09:40:14] - 21-02-2025 - INFO - Todos clientes marcados como concluidos
+[09:40:14] - 21-02-2025 - INFO - Nao existe informações na planilha para continuar
+[09:40:15] - 21-02-2025 - INFO - Etapa renomear TITULOS iniciada
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_BMW FINANCEIRA_R$9.187,04.pdf. Pulando...
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_MINERACAO SANTO ANTO_R$3.881,67.pdf. Pulando...
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_MOVIDA PARTICIPACOES_R$3.768,26.pdf. Pulando...
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_MOVIDA PARTICIPACOES_R$3.725,95.pdf. Pulando...
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_BELL MAQUINAS E EQUI_R$3.318,00.pdf. Pulando...
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_BELL MAQUINAS E EQUI_R$2.565,50.pdf. Pulando...
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_AUTO POSTO SANTA FE _R$1.154,57.pdf. Pulando...
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_UNO CONTABILIDADE E _R$600,00.pdf. Pulando...
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_MOVIDA PARTICIPACOES_R$130,16.pdf. Pulando...
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Erro ao processar titulos18.0_20.02.2025.pdf: [WinError 183] Não é possível criar um arquivo já existente: 'C:\\Users\\axlda\\iFinance\\iFinance - Dados\\IFINANCE RIBEIRÃO PRETO\\01. CLIENTES\\004. IMPETUS ENERGY E BUSINESS LTDA\\1. ARQUIVADOS\\02. COMPROVANTES DE PAGAMENTO\\2025\\02.2025\\SICOOB_4001_123787-0\\20.02.2025\\titulos18.0_20.02.2025.pdf' -> 'C:\\Users\\axlda\\iFinance\\iFinance - Dados\\IFINANCE RIBEIRÃO PRETO\\01. CLIENTES\\004. IMPETUS ENERGY E BUSINESS LTDA\\1. ARQUIVADOS\\02. COMPROVANTES DE PAGAMENTO\\2025\\02.2025\\SICOOB_4001_123787-0\\20.02.2025\\20.02.2025_CP_MOVIDA PARTICIPACOES_R$130,16_V2.pdf'
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_INFOVARZ - CONECTV_R$79,90.pdf. Pulando...
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_CONSELHO REGIONAL DE_R$271,47.pdf. Pulando...
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Erro ao processar titulos3.0_20.02.2025.pdf: [WinError 183] Não é possível criar um arquivo já existente: 'C:\\Users\\axlda\\iFinance\\iFinance - Dados\\IFINANCE RIBEIRÃO PRETO\\01. CLIENTES\\004. IMPETUS ENERGY E BUSINESS LTDA\\1. ARQUIVADOS\\02. COMPROVANTES DE PAGAMENTO\\2025\\02.2025\\SICOOB_4001_123787-0\\20.02.2025\\titulos3.0_20.02.2025.pdf' -> 'C:\\Users\\axlda\\iFinance\\iFinance - Dados\\IFINANCE RIBEIRÃO PRETO\\01. CLIENTES\\004. IMPETUS ENERGY E BUSINESS LTDA\\1. ARQUIVADOS\\02. COMPROVANTES DE PAGAMENTO\\2025\\02.2025\\SICOOB_4001_123787-0\\20.02.2025\\20.02.2025_CP_CONSELHO REGIONAL DE_R$271,47_V2.pdf'
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Erro ao processar titulos4.0_20.02.2025.pdf: [WinError 183] Não é possível criar um arquivo já existente: 'C:\\Users\\axlda\\iFinance\\iFinance - Dados\\IFINANCE RIBEIRÃO PRETO\\01. CLIENTES\\004. IMPETUS ENERGY E BUSINESS LTDA\\1. ARQUIVADOS\\02. COMPROVANTES DE PAGAMENTO\\2025\\02.2025\\SICOOB_4001_123787-0\\20.02.2025\\titulos4.0_20.02.2025.pdf' -> 'C:\\Users\\axlda\\iFinance\\iFinance - Dados\\IFINANCE RIBEIRÃO PRETO\\01. CLIENTES\\004. IMPETUS ENERGY E BUSINESS LTDA\\1. ARQUIVADOS\\02. COMPROVANTES DE PAGAMENTO\\2025\\02.2025\\SICOOB_4001_123787-0\\20.02.2025\\20.02.2025_CP_CONSELHO REGIONAL DE_R$271,47_V2.pdf'
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_COMP ELE EST DA BA C_R$633,26.pdf. Pulando...
+[09:40:15] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_PR LOCACOES DE EQUIP_R$24.298,25.pdf. Pulando...
+[09:40:16] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_PLASTIBRAS INDUSTRIA_R$14.264,33.pdf. Pulando...
+[09:40:16] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_FORMENTO SECURITIZAD_R$13.500,00.pdf. Pulando...
+[09:40:16] - 21-02-2025 - INFO - TITULOS - Arquivo já existe com o mesmo No. Agendamento: 20.02.2025_CP_BELL MAQUINAS E EQUI_R$5.590,50.pdf. Pulando...
+[09:40:16] - 21-02-2025 - INFO - Etapa renomear TITULOS finalizada
+[09:40:16] - 21-02-2025 - INFO - Etapa renomear IMPOSTO iniciada
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_49.852.462 FABIANY K_R$1950.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_49.852.462 FABIANY K_R$1989.05.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_59.502.595 CAIO SOAR_R$17900.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_AGATA CONSULTORIA E_R$72765.24.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Antônio Santos Costa_R$4785.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Arlindo Francisco Be_R$100.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_AUTO POSTO SANTA FE _R$1.154,57.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_AVP FIGUEIREDO SERVI_R$27375.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_BELL MAQUINAS E EQUI_R$2.565,50.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_BELL MAQUINAS E EQUI_R$3.318,00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_BELL MAQUINAS E EQUI_R$5.590,50.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_BETA SOLUCOES_R$84773.67.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_BMW FINANCEIRA_R$9.187,04.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_CARLOS EDUARDO CATAN_R$29497.09.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_CERRADO TOPOGRAFIA_R$670.68.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_COMP ELE EST DA BA C_R$633,26.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_CONCRETO MCC LTDA_R$26000.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_CONSELHO REGIONAL DE_R$271,47.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_CONSELHO REGIONAL DE_R$271,47_V2.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Elaine Cândida da Si_R$200.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_FORMENTO SECURITIZAD_R$13.500,00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_IMPETUS ENERGY E BUS_R$38000.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_INFOVARZ - CONECTV_R$79,90.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_IP77_R$21237.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_LOCAPESS LOCACOES EI_R$19300.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_LOJA ELETRICA LTDA_R$3645.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_LOJA ELETRICA LTDA_R$38540.45.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MAURICIO ANTONIO FER_R$600.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MINERACAO SANTO ANTO_R$3.881,67.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MOVIDA PARTICIPACOES_R$130,16.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MOVIDA PARTICIPACOES_R$130,16_V2.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MOVIDA PARTICIPACOES_R$3.725,95.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MOVIDA PARTICIPACOES_R$3.768,26.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_PIRANGUINHENSE MATER_R$1650.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_PLASTIBRAS INDUSTRIA_R$14.264,33.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_PR LOCACOES DE EQUIP_R$24.298,25.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_SOUZARTS MARMORES E_R$18000.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_UNO CONTABILIDADE E _R$600,00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_UNO CONTABILIDADE E_R$100.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_UNO CONTABILIDADE E_R$200.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_VAGNER RODRIGUES DE_R$20000.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix1.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix10.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix11.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix12.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix13.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix14.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix15.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix16.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix17.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix18.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix19.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix2.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix20.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix21.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix22.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix23.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix3.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix4.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix5.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix6.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix7.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix8.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: pix9.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos1.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos10.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos11.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos12.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos13.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos14.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos15.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos16.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos17.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos18.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos19.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos2.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos3.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos4.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos5.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos6.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos7.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos8.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: titulos9.0_20.02.2025.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_CAIXA ECONOMICA FEDE_R$310.32.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_COMPROVANTE_DE_PAGAM_R$_166.98.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_COMPROVANTE_DE_PAGAM_R$_499.06.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_COMPROVANTE_DE_PAGAM_R$_9776.60.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_COPAL ALIMENTOS LTDA_R$326,26.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_CORDIAL DISTRIBUIDOR_R$728,22.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_DEMERGE BRASIL FACIL_R$83.14.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_POSTO GALO LTDA_R$34.97.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_SEGALA S ALIMENTOS L_R$420,92.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_AUTO POSTO COMEFOGO_R$1238.94.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_AUTO POSTO COMEFOGO_R$187.75.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_JGM SECURITIZADORA S_R$1.160,00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_LUIZ DONIZETE DE SOU_R$1272.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MARIA EDUARDA FERRAR_R$847.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MARVIN BORRACHAS LTD_R$7.654,99.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_RP REFORMADORA DE PN_R$3.750,00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_SUPERMERCADO SB BABA_R$3.246,28.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_UNIQUE RUBBER TECHNO_R$5519.50.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_VALDEMIR DAL BEN_R$1440.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Alessandra de Faria_R$2000.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Alessandra de Faria_R$680.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Davison de Jesus Mau_R$100.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Davison de Jesus Mau_R$8000.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Eliel Luis Correa_R$1505.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_ESTER VITAL DE LIMA_R$675.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_EUGENIO GALANTI_R$640.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_FUNDO DE INVEST EM D_R$2.743,63.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_G. D. A. COMERCIO DE_R$15000.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Igor Figueira de Alb_R$1153.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_IPVA PLACA GAF1A96_R$ 896,21.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_ISRAEL RODRIGUES DE_R$1440.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Jairo Da Silva Anice_R$913.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_JOAO DEFIUME_R$640.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_JOSE TADEU MOTA_R$425.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_JOSE TADEU MOTA_R$965.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_João Paulo Mazali De_R$980.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_LUAM JUNIO DAMIAO DE_R$1505.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Luana Silva Souza_R$847.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Lucas de Faria Mauri_R$1340.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_LUCIDIO LIMA DE OLIV_R$1311.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_LUIS APARECIDO GUIDE_R$197.19.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Luiz Fernando Ancelm_R$913.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MARCIO LARANGEIRA LO_R$1554.83.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MARCIO LARANGEIRA LO_R$50.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MARCIO LARANGEIRA LO_R$50.00_V2.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_MARCIO LARANGEIRA LO_R$932.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Márcio Luiz da Cruz_R$100.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_Paloma Cristina de O_R$847.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_PAULO ROBERTO CORREA_R$1505.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_RANIEL RENAN SALES_R$913.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_RAPHAEL EVANGELISTA_R$1470.00.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_RONILSON ALMEIDA DE_R$274.82.pdf
+[09:40:16] - 21-02-2025 - INFO - IMPOSTO - Arquivo não corresponde ao padrão: 20.02.2025_CP_VALDIR ALVES PINTO_R$847.00.pdf
+[09:40:16] - 21-02-2025 - INFO - Etapa renomear IMPOSTO finalizada
+[09:40:17] - 21-02-2025 - INFO - Etapa renomear PIX finalizada

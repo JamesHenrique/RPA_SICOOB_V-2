@@ -1,0 +1,51 @@
+[10:59:34] - 16-02-2025 - INFO - Tela fechada com sucesso 
+[11:03:20] - 16-02-2025 - INFO - Login realizado com sucesso - 4001
+[11:03:20] - 16-02-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: titulos
+[11:05:53] - 16-02-2025 - INFO - Login realizado com sucesso - 4001
+[11:05:53] - 16-02-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: titulos
+[11:06:20] - 16-02-2025 - INFO - Nao existe cp de Titulos para periodo informado
+[11:06:20] - 16-02-2025 - INFO - Etapa atualizado com sucesso
+[11:06:20] - 16-02-2025 - INFO - Etapa atualizado com sucesso
+[11:06:20] - 16-02-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: convenio
+[11:06:53] - 16-02-2025 - INFO - 2 - Nao existe cp de imposto para periodo informado - Cliente IMPETUS_LTDA_4001
+[11:06:53] - 16-02-2025 - INFO - Indo para pix
+[11:06:53] - 16-02-2025 - INFO - Etapa atualizado com sucesso
+[11:06:53] - 16-02-2025 - INFO - Etapa atualizado com sucesso
+[11:06:54] - 16-02-2025 - INFO - Cliente: IMPETUS_LTDA_4001 | etapa: pix
+[11:11:39] - 16-02-2025 - INFO - Total de CP salvo na planilha.
+[11:11:41] - 16-02-2025 - INFO - Comprovante 1º
+[11:12:09] - 16-02-2025 - INFO - posição Y: 491
+[11:12:09] - 16-02-2025 - INFO - pagina atual 1
+[11:12:11] - 16-02-2025 - INFO - Comprovante 2º
+[11:12:38] - 16-02-2025 - INFO - posição Y: 516
+[11:12:38] - 16-02-2025 - INFO - pagina atual 1
+[11:12:40] - 16-02-2025 - INFO - Comprovante 3º
+[11:13:08] - 16-02-2025 - INFO - posição Y: 541
+[11:13:08] - 16-02-2025 - INFO - pagina atual 1
+[11:13:10] - 16-02-2025 - INFO - Comprovante 4º
+[11:13:38] - 16-02-2025 - INFO - posição Y: 566
+[11:13:38] - 16-02-2025 - INFO - pagina atual 1
+[11:13:40] - 16-02-2025 - INFO - Comprovante 5º
+[11:14:12] - 16-02-2025 - INFO - posição Y: 591
+[11:14:12] - 16-02-2025 - INFO - pagina atual 1
+[11:14:14] - 16-02-2025 - INFO - Comprovante 6º
+[11:14:42] - 16-02-2025 - INFO - posição Y: 616
+[11:14:42] - 16-02-2025 - INFO - pagina atual 1
+[11:14:44] - 16-02-2025 - INFO - Comprovante 7º
+[11:15:12] - 16-02-2025 - INFO - posição Y: 641
+[11:15:12] - 16-02-2025 - INFO - pagina atual 1
+[11:15:14] - 16-02-2025 - INFO - Comprovante 8º
+[11:15:47] - 16-02-2025 - INFO - posição Y: 666
+[11:15:47] - 16-02-2025 - INFO - pagina atual 1
+[11:15:49] - 16-02-2025 - INFO - Comprovante 9º
+[11:16:19] - 16-02-2025 - INFO - posição Y: 691
+[11:16:19] - 16-02-2025 - INFO - pagina atual 1
+[11:16:21] - 16-02-2025 - INFO - Comprovante 10º
+[11:16:49] - 16-02-2025 - INFO - posição Y: 716
+[11:16:49] - 16-02-2025 - INFO - pagina atual 1
+[11:16:51] - 16-02-2025 - INFO - Comprovante 1º
+[11:17:19] - 16-02-2025 - INFO - posição Y: 491
+[11:17:19] - 16-02-2025 - INFO - pagina atual 2
+[11:17:21] - 16-02-2025 - INFO - Comprovante 2º
+[11:18:07] - 16-02-2025 - INFO - Verificar imprimir falhou - retornando ao começo do pix
+[11:22:39] - 16-02-2025 - INFO - Etapa renomear PIX finalizada
