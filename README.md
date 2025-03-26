@@ -31,8 +31,7 @@ Para executar o projeto, utilize o comando abaixo:
 python main.py
 
 ## Ao executar abrirá uma tela para selecionar qual conta deseja fazer baixar e renomear os comprovantes
-
-![image](https://github.com/user-attachments/assets/ab1bcce9-4f98-4493-ac68-6cbfb1d44e74)
+[image](https://github.com/user-attachments/assets/ab1bcce9-4f98-4493-ac68-6cbfb1d44e74)
 
 
 
