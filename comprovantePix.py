@@ -12,6 +12,7 @@ import os
 from pandas_script import atualizar_etapa,salvar_dados_correntes,atualizar_status,consultar_progresso
 from caminhos import PASTA_PLANILHAS
 from logger import infoLogs
+from processo import refaz_login,refaz_login_cliente
 
 import threading
 from utils import  verificar_tempo_limite, renovar_sessao, sessao_ativa
@@ -30,63 +31,80 @@ dados = []
 
 
 tentativas = 0
-max_tentativas = 5
+max_tentativas = 5 # estava 5
 
-def encerrar_processo():
+def reinicia_processo(cliente):
     infoLogs().info("Encerrando o processo em pix")
     tm.sleep(3)
     py.click(x=1893,y=13)
     tm.sleep(3)
+    tm.sleep(10)
+    infoLogs().info(f'Reiniciando processo em pix cliente - {cliente} ')
+    if not refaz_login():
+        infoLogs().log(f'Erro no sistema - pix')
+        return False
     
-
-
-def ir_para_pix_novamente():
-    global tentativas
-    tentativas += 1
-
-    verificar_tempo_limite()
+    refaz_login_cliente(cliente)
     
-    apenas_dia1 = ""
-    apenas_dia2 = ""
+        
 
-    # Posição tela PIX
-    tm.sleep(2)  # Variável 'tempo' não definida, substitui por 2 segundos
-    py.click(x=1073, y=151)
 
-    # Clique em extrato PIX
-    tm.sleep(1)
-    py.click(x=1090, y=204)
+def ir_para_pix_novamente(cliente,max_tenta=10):
 
-    # Clique no 1º campo de data
-    tm.sleep(2)
-    py.click(x=573, y=621)
-    tm.sleep(2)
+    tempo_espera = 1.5
 
-    # Verifica se é "segunda depois das 12h" e define as datas
-    if "segunda depois das 12h" in verificaSegunda():
-        apenas_dia1 = todasDatas()[1].split('.')[0]
-        apenas_dia2 = todasDatas()[0].split('.')[0]
-    else:
-        apenas_dia1 = todasDatas()[0].split('.')[0]
-        apenas_dia2 = todasDatas()[1].split('.')[0]
+    for tentativa in range(max_tenta):
+        verificar_tempo_limite()   
+        apenas_dia1 = ""
+        apenas_dia2 = ""
 
-    # Escreve as datas nos campos
-    py.write(apenas_dia1, interval=0.5)
-    tm.sleep(1)
-    py.write(apenas_dia2, interval=0.5)
+        try:
+            
+            
+            # Posição tela PIX
+            tm.sleep(tempo_espera)  # Variável 'tempo' não definida, substitui por 2 segundos
+            py.click(x=1073, y=151)
 
-    # Verifica e clica no botão consultar
-    verifica_btn_consultar()
+            # Clique em extrato PIX
+            tm.sleep(tempo_espera)
+            py.click(x=1090, y=204)
 
-    # Verifica o cabeçalho PIX
-    if not verifica_cabecalho_pix():
-        infoLogs().info('erro ao encontrar o cabeçalho novamente')
-        if tentativas < max_tentativas:
-            ir_para_pix_novamente()
-        else:
-            infoLogs().info('Número máximo de tentativas atingido')
-            encerrar_processo()
-    return True
+            # Clique no 1º campo de data
+            tm.sleep(tempo_espera)
+            py.click(x=573, y=621)
+            tm.sleep(tempo_espera)
+
+            # Verifica se é "segunda depois das 12h" e define as datas
+            if "segunda depois das 12h" in verificaSegunda():
+                apenas_dia1 = todasDatas()[1].split('.')[0]
+                apenas_dia2 = todasDatas()[0].split('.')[0]
+            else:
+                apenas_dia1 = todasDatas()[0].split('.')[0]
+                apenas_dia2 = todasDatas()[1].split('.')[0]
+
+            # Escreve as datas nos campos
+            py.write(apenas_dia1, interval=0.5)
+            tm.sleep(1)
+            py.write(apenas_dia2, interval=0.5)
+
+            # Verifica e clica no botão consultar
+            verifica_btn_consultar()
+
+            # Verifica o cabeçalho PIX
+            if verifica_cabecalho_pix():
+                return True 
+            else:
+                infoLogs().info(f"Tentativa {tentativa+1}/{max_tentativas} - cabeçalho PIX não encontrado.")
+                infoLogs().info(f"Datas tentadas: {apenas_dia1} - {apenas_dia2}")
+            
+        except Exception as e:
+            infoLogs().error(f"Erro na tentativa {tentativa+1}: {str(e)}")
+
+    # Se chegou aqui, deu erro em todas tentativas
+    infoLogs().info("Número máximo de tentativas atingido - PIX")
+    infoLogs().info(f"Últimas datas tentadas: {apenas_dia1} - {apenas_dia2}")
+    reinicia_processo(cliente)
+    return False
 
 
 def seleciona_cp_pix(cliente):
@@ -133,7 +151,7 @@ def seleciona_cp_pix(cliente):
         
 
         if not verifica_cabecalho_pix():
-            ir_para_pix_novamente()
+            ir_para_pix_novamente(cliente)
             tm.sleep(1)
             continue
             
@@ -155,7 +173,7 @@ def seleciona_cp_pix(cliente):
 
         if 'nao' in verifica_btn_detalhar():
             infoLogs().info("Erro no botao detalhar\n Reiniciando o processo")
-            ir_para_pix_novamente()
+            ir_para_pix_novamente(cliente)
             continue
 
 
@@ -165,7 +183,7 @@ def seleciona_cp_pix(cliente):
 
         if not verifica_btn_imprimir():
             infoLogs().info('Verificar imprimir falhou - retornando ao começo do pix')
-            ir_para_pix_novamente()
+            ir_para_pix_novamente(cliente)
             tm.sleep(1)
             continue
 
@@ -178,9 +196,13 @@ def seleciona_cp_pix(cliente):
 
         nome_arquivo = f'pix{quantidade_comprovantes}_{todasDatas()[0]}'
 
+        
         tm.sleep(0.5)
 
         caminho_completo = os.path.join(caminho_base, nome_arquivo)
+        if os.path.exists(caminho_completo):
+            infoLogs().log(f'Já existe cp {nome_arquivo} cliente - {cliente}')
+            continue
 
 
         tm.sleep(0.5)
@@ -203,12 +225,12 @@ def seleciona_cp_pix(cliente):
 
 
         if  'nao' in verifica_btn_voltar():
-            ir_para_pix_novamente()
+            ir_para_pix_novamente(cliente)
             continue
 
 
         if not verifica_cabecalho_pix():
-           ir_para_pix_novamente()
+           ir_para_pix_novamente(cliente)
            continue
         
 
@@ -254,6 +276,7 @@ def seleciona_cp_pix(cliente):
 
 
 
+
 def ir_para_pix(cliente):
 
     verificar_tempo_limite()
@@ -287,7 +310,7 @@ def ir_para_pix(cliente):
 
     if not verifica_btn_consultar():
         infoLogs().log('Erro ao encontrar o btn_consultar pix\nReiniciando')
-        ir_para_pix_novamente()
+        ir_para_pix_novamente(cliente)
 
     # Verificar se tem comprovantes PIX ou não
     # tirarPrintErroPix()
@@ -338,6 +361,3 @@ def ir_para_pix(cliente):
         print('Retomando pix')
         atualizar_etapa(cliente,'pix')
         return
-
-
-

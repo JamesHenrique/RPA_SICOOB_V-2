@@ -4,7 +4,7 @@ import pyautogui as py
 
 # time.sleep(2)
 
-# screenshot = pyautogui.screenshot(r'C:\Users\axlda\OneDrive\1. Area de Trabalho_Note Dell_Alexandre David\BANCOS_OP\RPA_SICOOB - V2\prints\total_regis_pix.png', region=(600,808,83, 20))#x,y,largura,altura
+# screenshot = pyautogui.screenshot(r'C:\Users\axlda\OneDrive\1. Area de Trabalho_Note Dell_Alexandre David\BANCOS_OP\RPA_SICOOB - V2\prints\bnt_chekbox_imp.png', region=(691,530,86, 20))#x,y,largura,altura
 
 """
 965,883
@@ -610,7 +610,7 @@ def verifica_btn_consultar():
 
         tentativas = tentativas + 1
         
-        print('tentando localizar - btn_consultar')
+        print(f'tentando localizar - btn_consultar {tentativas}')
         time.sleep(3)  # Espera antes de tentar novamente
 
     return False
@@ -861,6 +861,94 @@ def num_9():
         time.sleep(5)  # Espera 1 segundo antes de tentar novamente
     return 'nao'
 
+
+
+
+def pos_inicio_imposto():
+    # Espera 2 segundos para dar tempo de você posicionar a tela
+    time.sleep(2)
+    tentativas = 0
+    while tentativas <= 5:
+        time.sleep(5)
+        try:
+            # Localiza a imagem na tela (retorna um retângulo: left, top, width, height)
+            localizacao = py.locateOnScreen(r'C:\Users\axlda\OneDrive\1. Area de Trabalho_Note Dell_Alexandre David\BANCOS_OP\RPA_SICOOB - V2\prints\bnt_chekbox_imp.png', confidence=0.9)
+
+            if localizacao:
+                x, y = localizacao.left, localizacao.top
+
+                # Define deslocamento relativo (ex: 50px à direita e 20px abaixo)
+                deslocamento_x = 10
+                deslocamento_y = 25
+
+                #702,560
+                # Clica na posição relativa
+                posX = x + deslocamento_x
+                posY = y + deslocamento_y
+                # py.click(posX,posY)
+                return posX,posY
+        except:
+            tentativas += 1
+            print(f"CheckBox não encontrado para imposto - Tentativa{tentativas}x")
+        
+  
+    return 0,0
+
+# qn = 39
+# px,posy = pos_inicio_imposto()
+# i = 0
+# time.sleep(2)
+# while qn >= 0:
+#     py.click(px,posy)
+#     print(f'posica antes +23 {px} | {posy}')
+#     posy += 25
+#     if i == 10:
+#         print(f'i: {i}')
+#         i = 0
+#         time.sleep(2)
+#         print(verifica_btn_prox_pagina())
+#         time.sleep(5)
+#         px,posy = pos_inicio_imposto()
+#         print(f'posic: {px} | {posy}')
+#         continue
+#     print(f'posica fora {px} | {posy}')
+#     print(f'qn: {qn}')
+#     qn = qn - 1
+#     i+= 1
+
+
+# import pyautogui as py
+# import time
+
+# def clicar_checkbox_e_descendo(imagem_checkbox, cliques=5, intervalo=0.5):
+#     # Localiza todos os checkboxes
+#     checkboxes = list(py.locateAllOnScreen(imagem_checkbox, confidence=0.9))
+
+#     if len(checkboxes) < 2:
+#         print("Não há pelo menos dois checkboxes na tela.")
+#         return
+
+#     # Ordena do topo para baixo
+#     checkboxes_ordenados = sorted(checkboxes, key=lambda b: b.top)
+
+#     # Pega o segundo checkbox
+#     segundo_checkbox = checkboxes_ordenados[1]
+#     centro = py.center(segundo_checkbox)
+#     x_inicial = centro.x
+#     y_inicial = centro.y
+
+#     # Clica inicialmente no segundo
+#     py.click(x_inicial, y_inicial)
+#     time.sleep(intervalo)
+
+#     # Clica nos próximos abaixo, incrementando 20px no Y
+#     for i in range(1, cliques):
+#         y = y_inicial + (i * 20)
+#         py.click(x_inicial, y)
+#         time.sleep(intervalo)
+
+# Exemplo de uso
+# clicar_checkbox_e_descendo('checkbox.png', cliques=5)
 
 
 import time as tm
